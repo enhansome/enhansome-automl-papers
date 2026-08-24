@@ -1,7 +1,895 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2022 | BERT-Sort: A Zero-shot MLM Semantic Encoder on Ordinal Features for AutoML | Mehdi Bahrami, et al. | AutoML |",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 468615382,
+                "language": "Python",
+                "last_commit": "2022-11-01T03:21:42Z",
+                "owner": "marscod",
+                "repo": "BERT-Sort",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Automated Feature Engineering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2020 | Automated Machine Learning Techniques for Data Streams | Alexandru-Ionut Imbrea |",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 220987200,
+                "language": "TeX",
+                "last_commit": "2023-06-29T21:04:44Z",
+                "owner": "AlexImb",
+                "repo": "automl-streams-research-paper",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous"
+        }
+      ],
+      "title": "Papers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AdaNet",
+          "description": "NAS Python Apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 139064580,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-11-30T16:30:21Z",
+            "owner": "tensorflow",
+            "repo": "adanet",
+            "stars": 3454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advisor",
+          "description": "HPO Python Apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 103483215,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-11-11T06:59:32Z",
+            "owner": "tobegit3hub",
+            "repo": "advisor",
+            "stars": 1563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ATM",
+          "description": "HPO Python MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70934951,
+            "language": "Python",
+            "last_commit": "2020-02-21T17:44:07Z",
+            "owner": "HDI-Project",
+            "repo": "ATM",
+            "stars": 529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auptimizer",
+          "description": "HPO, NAS Python (support R script) GPL-3.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 207935839,
+            "language": "Python",
+            "last_commit": "2023-01-27T02:15:43Z",
+            "owner": "LGE-ARC-AdvancedAI",
+            "repo": "auptimizer",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autokeras",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111340129,
+            "language": "Python",
+            "last_commit": "2025-11-25T02:26:35Z",
+            "owner": "keras-team",
+            "repo": "autokeras",
+            "stars": 9326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autokeras",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111340129,
+            "language": "Python",
+            "last_commit": "2025-11-25T02:26:35Z",
+            "owner": "keras-team",
+            "repo": "autokeras",
+            "stars": 9326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoPyTorch",
+          "description": "HPO, NAS Python Apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 159791040,
+            "language": "Python",
+            "last_commit": "2024-04-09T06:17:08Z",
+            "owner": "automl",
+            "repo": "Auto-PyTorch",
+            "stars": 2541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HyperGBM",
+          "description": "HPO Python Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 306202835,
+            "language": "Python",
+            "last_commit": "2026-04-20T02:07:19Z",
+            "owner": "DataCanvasIO",
+            "repo": "HyperGBM",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HyperKeras",
+          "description": "NAS Python Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 306203516,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-06-01T08:23:30Z",
+            "owner": "DataCanvasIO",
+            "repo": "HyperKeras",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hypernets",
+          "description": "HPO, NAS Python Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 274071592,
+            "language": "Python",
+            "last_commit": "2026-04-20T02:07:49Z",
+            "owner": "DataCanvasIO",
+            "repo": "Hypernets",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auto-sklearn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38441254,
+            "language": "Python",
+            "last_commit": "2026-06-29T14:03:15Z",
+            "owner": "automl",
+            "repo": "auto-sklearn",
+            "stars": 8125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auto-sklearn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38441254,
+            "language": "Python",
+            "last_commit": "2026-06-29T14:03:15Z",
+            "owner": "automl",
+            "repo": "auto-sklearn",
+            "stars": 8125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auto_ml",
+          "description": "HPO Python MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65155092,
+            "language": "Python",
+            "last_commit": "2021-02-10T07:52:35Z",
+            "owner": "ClimbsRocks",
+            "repo": "auto_ml",
+            "stars": 1654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BayesianOptimization",
+          "description": "HPO Python MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20556335,
+            "language": "Python",
+            "last_commit": "2026-08-21T14:54:17Z",
+            "owner": "bayesian-optimization",
+            "repo": "BayesianOptimization",
+            "stars": 8692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BayesOpt",
+          "description": "HPO C++ AGPL-3.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9222673,
+            "language": "C++",
+            "last_commit": "2023-03-14T16:46:07Z",
+            "owner": "rmcantin",
+            "repo": "bayesopt",
+            "stars": 435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DEvol",
+          "description": "NAS Python MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81520737,
+            "language": "Python",
+            "last_commit": "2023-05-25T14:45:47Z",
+            "owner": "joeddav",
+            "repo": "devol",
+            "stars": 951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepArchitect",
+          "description": "NAS Python MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 199943153,
+            "language": "Python",
+            "last_commit": "2023-03-24T23:41:07Z",
+            "owner": "negrinho",
+            "repo": "deep_architect",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Determined",
+          "description": "HPO, NAS Python Apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 253846879,
+            "language": "Go",
+            "last_commit": "2025-03-20T19:09:46Z",
+            "owner": "determined-ai",
+            "repo": "determined",
+            "stars": 3235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FAR-HO",
+          "description": "HPO Python MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 113098403,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-03-24T12:22:57Z",
+            "owner": "lucfra",
+            "repo": "FAR-HO",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "H2O AutoML",
+          "description": "HPO Python, R, Java, Scala Apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17371412,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-23T17:46:29Z",
+            "owner": "h2oai",
+            "repo": "h2o-3",
+            "stars": 7495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HpBandSter",
+          "description": "HPO Python BSD-3-Clause",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114566317,
+            "language": "Python",
+            "last_commit": "2022-10-16T06:18:34Z",
+            "owner": "automl",
+            "repo": "HpBandSter",
+            "stars": 633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyperband",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83242270,
+            "language": "Python",
+            "last_commit": "2018-08-15T09:21:05Z",
+            "owner": "zygmuntz",
+            "repo": "hyperband",
+            "stars": 600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyperband",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83242270,
+            "language": "Python",
+            "last_commit": "2018-08-15T09:21:05Z",
+            "owner": "zygmuntz",
+            "repo": "hyperband",
+            "stars": 600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyperopt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2337852,
+            "language": "Python",
+            "last_commit": "2026-08-17T21:59:07Z",
+            "owner": "hyperopt",
+            "repo": "hyperopt",
+            "stars": 7592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyperopt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2337852,
+            "language": "Python",
+            "last_commit": "2026-08-17T21:59:07Z",
+            "owner": "hyperopt",
+            "repo": "hyperopt",
+            "stars": 7592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyperopt-sklearn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8293893,
+            "language": "Python",
+            "last_commit": "2025-04-15T17:15:54Z",
+            "owner": "hyperopt",
+            "repo": "hyperopt-sklearn",
+            "stars": 1648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyperopt-sklearn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8293893,
+            "language": "Python",
+            "last_commit": "2025-04-15T17:15:54Z",
+            "owner": "hyperopt",
+            "repo": "hyperopt-sklearn",
+            "stars": 1648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyperparameter Hunter",
+          "description": "HPO Python MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 135771325,
+            "language": "Python",
+            "last_commit": "2021-01-20T03:52:41Z",
+            "owner": "HunterMcGushion",
+            "repo": "hyperparameter_hunter",
+            "stars": 705
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Katib",
+          "description": "HPO Python Apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127941481,
+            "language": "Python",
+            "last_commit": "2026-08-06T23:09:31Z",
+            "owner": "kubeflow",
+            "repo": "katib",
+            "stars": 1697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Milano",
+          "description": "HPO Python Apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 147424942,
+            "language": "Python",
+            "last_commit": "2018-11-07T22:32:56Z",
+            "owner": "NVIDIA",
+            "repo": "Milano",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLJAR",
+          "description": "AutoFE, HPO, NAS Python MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156218203,
+            "language": "Python",
+            "last_commit": "2026-07-27T09:30:27Z",
+            "owner": "mljar",
+            "repo": "mljar-supervised",
+            "stars": 3286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mlr3automl",
+          "description": "HPO R LGPL-3.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 265875726,
+            "language": "R",
+            "last_commit": "2022-02-20T17:53:19Z",
+            "owner": "a-hanf",
+            "repo": "mlr3automl",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nasbot",
+          "description": "NAS Python MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 136734134,
+            "language": "Python",
+            "last_commit": "2019-01-28T20:45:09Z",
+            "owner": "kirthevasank",
+            "repo": "nasbot",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NNI",
+          "description": "HPO, NAS Python MIT",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 135673451,
+            "language": "Python",
+            "last_commit": "2024-07-03T10:55:10Z",
+            "owner": "microsoft",
+            "repo": "nni",
+            "stars": 14362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oboe",
+          "description": "HPO Python BSD-3-Clause",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121367082,
+            "language": "Python",
+            "last_commit": "2021-10-23T00:22:11Z",
+            "owner": "udellgroup",
+            "repo": "oboe",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "optunity",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20266254,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-11-25T01:31:29Z",
+            "owner": "claesenm",
+            "repo": "optunity",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "optunity",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20266254,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-11-25T01:31:29Z",
+            "owner": "claesenm",
+            "repo": "optunity",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rbfopt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37258842,
+            "language": "Python",
+            "last_commit": "2025-03-30T03:50:27Z",
+            "owner": "coin-or",
+            "repo": "rbfopt",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rbfopt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37258842,
+            "language": "Python",
+            "last_commit": "2025-03-30T03:50:27Z",
+            "owner": "coin-or",
+            "repo": "rbfopt",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoBO",
+          "description": "HPO Python BSD-3-Clause",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32976730,
+            "language": "Python",
+            "last_commit": "2019-04-30T08:47:29Z",
+            "owner": "automl",
+            "repo": "RoBO",
+            "stars": 493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scikit-optimize",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 54340642,
+            "language": "Python",
+            "last_commit": "2024-02-23T07:05:22Z",
+            "owner": "scikit-optimize",
+            "repo": "scikit-optimize",
+            "stars": 2828
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scikit-optimize",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 54340642,
+            "language": "Python",
+            "last_commit": "2024-02-23T07:05:22Z",
+            "owner": "scikit-optimize",
+            "repo": "scikit-optimize",
+            "stars": 2828
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMAC3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65900469,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:10:11Z",
+            "owner": "automl",
+            "repo": "SMAC3",
+            "stars": 1243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMAC3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65900469,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:10:11Z",
+            "owner": "automl",
+            "repo": "SMAC3",
+            "stars": 1243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TPOT",
+          "description": "AutoFE, HPO Python LGPL-3.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45495679,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-11T21:32:19Z",
+            "owner": "EpistasisLab",
+            "repo": "tpot",
+            "stars": 10052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TransmogrifAI",
+          "description": "HPO Scala BSD-3-Clause",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109289451,
+            "language": "Scala",
+            "last_commit": "2026-06-02T18:03:07Z",
+            "owner": "salesforce",
+            "repo": "TransmogrifAI",
+            "stars": 2276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tune",
+          "description": "HPO Python Apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71932349,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:25:44Z",
+            "owner": "ray-project",
+            "repo": "ray",
+            "stars": 43597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xcessiv",
+          "description": "HPO Python Apache-2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84231689,
+            "language": "Python",
+            "last_commit": "2018-06-06T22:23:37Z",
+            "owner": "reiinakano",
+            "repo": "xcessiv",
+            "stars": 1265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmartML",
+          "description": "HPO R GPL-3.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145096053,
+            "language": "R",
+            "last_commit": "2020-11-19T12:13:17Z",
+            "owner": "DataSystemsGroupUT",
+            "repo": "SmartML",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLBox",
+          "description": "AutoFE, HPO Python BSD-3 License",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93080181,
+            "language": "Python",
+            "last_commit": "2023-08-06T18:20:04Z",
+            "owner": "AxeldeRomblay",
+            "repo": "MLBox",
+            "stars": 1536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AUtoML",
+          "description": "AutoML Python MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 534477565,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-05-14T16:05:11Z",
+            "owner": "Western-OC2-Lab",
+            "repo": "AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics",
+            "stars": 631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optuna",
+          "description": "HPO Python MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 122299416,
+            "language": "Python",
+            "last_commit": "2026-08-21T08:05:33Z",
+            "owner": "optuna",
+            "repo": "optuna",
+            "stars": 14698
+          }
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AutoFE",
+          "description": "Automated Feature Engineering for Predictive Modeling Udyan Khurana, etc al.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111381431,
+            "language": null,
+            "last_commit": "2024-06-11T16:51:05Z",
+            "owner": "hibayesian",
+            "repo": "awesome-automl-papers",
+            "stars": 4153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HPO",
+          "description": "A Tutorial on Bayesian Optimization for Machine Learning Ryan P. Adams",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111381431,
+            "language": null,
+            "last_commit": "2024-06-11T16:51:05Z",
+            "owner": "hibayesian",
+            "repo": "awesome-automl-papers",
+            "stars": 4153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HPO",
+          "description": "Bayesian Optimisation Gilles Louppe",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111381431,
+            "language": null,
+            "last_commit": "2024-06-11T16:51:05Z",
+            "owner": "hibayesian",
+            "repo": "awesome-automl-papers",
+            "stars": 4153
+          }
+        }
+      ],
+      "title": "Slides"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T23:55:12.561Z",
+    "last_updated": "2026-08-24T14:02:57.543Z",
     "original_repository": "hibayesian/awesome-automl-papers",
     "original_repository_id": 111381431,
     "original_repository_sha": "0317821496b4aed694d2197ea50d96dd08716946",
