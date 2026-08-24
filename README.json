@@ -215,7 +215,7 @@
             "last_commit": "2026-06-29T14:03:15Z",
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8125
+            "stars": 8126
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2026-06-29T14:03:15Z",
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8125
+            "stars": 8126
           }
         },
         {
@@ -347,7 +347,7 @@
             "archived": false,
             "id": 17371412,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-23T17:46:29Z",
+            "last_commit": "2026-08-24T19:19:37Z",
             "owner": "h2oai",
             "repo": "h2o-3",
             "stars": 7495
@@ -407,7 +407,7 @@
             "archived": false,
             "id": 2337852,
             "language": "Python",
-            "last_commit": "2026-08-17T21:59:07Z",
+            "last_commit": "2026-08-24T21:31:40Z",
             "owner": "hyperopt",
             "repo": "hyperopt",
             "stars": 7592
@@ -422,7 +422,7 @@
             "archived": false,
             "id": 2337852,
             "language": "Python",
-            "last_commit": "2026-08-17T21:59:07Z",
+            "last_commit": "2026-08-24T21:31:40Z",
             "owner": "hyperopt",
             "repo": "hyperopt",
             "stars": 7592
@@ -650,7 +650,7 @@
             "last_commit": "2019-04-30T08:47:29Z",
             "owner": "automl",
             "repo": "RoBO",
-            "stars": 493
+            "stars": 494
           }
         },
         {
@@ -752,10 +752,10 @@
             "archived": false,
             "id": 71932349,
             "language": "Python",
-            "last_commit": "2026-08-24T12:25:44Z",
+            "last_commit": "2026-08-24T22:27:17Z",
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43597
+            "stars": 43602
           }
         },
         {
@@ -830,7 +830,7 @@
             "last_commit": "2026-08-21T08:05:33Z",
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 14698
+            "stars": 14702
           }
         }
       ],
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:02:57.543Z",
+    "last_updated": "2026-08-24T23:55:12.273Z",
     "original_repository": "hibayesian/awesome-automl-papers",
     "original_repository_id": 111381431,
     "original_repository_sha": "0317821496b4aed694d2197ea50d96dd08716946",
