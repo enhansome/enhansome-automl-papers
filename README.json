@@ -260,7 +260,7 @@
             "last_commit": "2026-08-21T14:54:17Z",
             "owner": "bayesian-optimization",
             "repo": "BayesianOptimization",
-            "stars": 8692
+            "stars": 8696
           }
         },
         {
@@ -320,7 +320,7 @@
             "last_commit": "2025-03-20T19:09:46Z",
             "owner": "determined-ai",
             "repo": "determined",
-            "stars": 3235
+            "stars": 3236
           }
         },
         {
@@ -347,7 +347,7 @@
             "archived": false,
             "id": 17371412,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T04:19:36Z",
+            "last_commit": "2026-08-25T17:15:03Z",
             "owner": "h2oai",
             "repo": "h2o-3",
             "stars": 7495
@@ -752,10 +752,10 @@
             "archived": false,
             "id": 71932349,
             "language": "Python",
-            "last_commit": "2026-08-25T03:52:42Z",
+            "last_commit": "2026-08-25T23:40:17Z",
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43606
+            "stars": 43611
           }
         },
         {
@@ -830,7 +830,7 @@
             "last_commit": "2026-08-21T08:05:33Z",
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 14704
+            "stars": 14709
           }
         }
       ],
@@ -851,7 +851,7 @@
             "last_commit": "2024-06-11T16:51:05Z",
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4153
+            "stars": 4154
           }
         },
         {
@@ -866,7 +866,7 @@
             "last_commit": "2024-06-11T16:51:05Z",
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4153
+            "stars": 4154
           }
         },
         {
@@ -881,7 +881,7 @@
             "last_commit": "2024-06-11T16:51:05Z",
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4153
+            "stars": 4154
           }
         }
       ],
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:53:43.419Z",
+    "last_updated": "2026-08-25T23:57:26.808Z",
     "original_repository": "hibayesian/awesome-automl-papers",
     "original_repository_id": 111381431,
     "original_repository_sha": "0317821496b4aed694d2197ea50d96dd08716946",
