@@ -347,7 +347,7 @@
             "archived": false,
             "id": 17371412,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-24T19:19:37Z",
+            "last_commit": "2026-08-25T04:19:36Z",
             "owner": "h2oai",
             "repo": "h2o-3",
             "stars": 7495
@@ -752,10 +752,10 @@
             "archived": false,
             "id": 71932349,
             "language": "Python",
-            "last_commit": "2026-08-24T22:27:17Z",
+            "last_commit": "2026-08-25T03:52:42Z",
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43602
+            "stars": 43606
           }
         },
         {
@@ -830,7 +830,7 @@
             "last_commit": "2026-08-21T08:05:33Z",
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 14702
+            "stars": 14704
           }
         }
       ],
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:55:12.273Z",
+    "last_updated": "2026-08-25T05:53:43.419Z",
     "original_repository": "hibayesian/awesome-automl-papers",
     "original_repository_id": 111381431,
     "original_repository_sha": "0317821496b4aed694d2197ea50d96dd08716946",
