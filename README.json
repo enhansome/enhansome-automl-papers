@@ -260,7 +260,7 @@
             "last_commit": "2026-08-21T14:54:17Z",
             "owner": "bayesian-optimization",
             "repo": "BayesianOptimization",
-            "stars": 8696
+            "stars": 8697
           }
         },
         {
@@ -665,7 +665,7 @@
             "last_commit": "2024-02-23T07:05:22Z",
             "owner": "scikit-optimize",
             "repo": "scikit-optimize",
-            "stars": 2828
+            "stars": 2829
           }
         },
         {
@@ -680,7 +680,7 @@
             "last_commit": "2024-02-23T07:05:22Z",
             "owner": "scikit-optimize",
             "repo": "scikit-optimize",
-            "stars": 2828
+            "stars": 2829
           }
         },
         {
@@ -695,7 +695,7 @@
             "last_commit": "2026-08-24T11:10:11Z",
             "owner": "automl",
             "repo": "SMAC3",
-            "stars": 1243
+            "stars": 1244
           }
         },
         {
@@ -710,7 +710,7 @@
             "last_commit": "2026-08-24T11:10:11Z",
             "owner": "automl",
             "repo": "SMAC3",
-            "stars": 1243
+            "stars": 1244
           }
         },
         {
@@ -755,7 +755,7 @@
             "last_commit": "2026-08-27T03:55:07Z",
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43616
+            "stars": 43617
           }
         },
         {
@@ -827,7 +827,7 @@
             "archived": false,
             "id": 122299416,
             "language": "Python",
-            "last_commit": "2026-08-26T02:53:39Z",
+            "last_commit": "2026-08-27T09:41:40Z",
             "owner": "optuna",
             "repo": "optuna",
             "stars": 14713
@@ -889,9 +889,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:00:49.397Z",
-    "original_repository": "hibayesian/awesome-automl-papers",
-    "original_repository_id": 111381431,
+    "last_updated": "2026-08-27T11:26:20.139Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 111381431,
+      "language": null,
+      "last_commit": "2024-06-11T16:51:05Z",
+      "owner": "hibayesian",
+      "repo": "awesome-automl-papers",
+      "stars": 4154
+    },
     "original_repository_sha": "0317821496b4aed694d2197ea50d96dd08716946",
     "enhanced_repository": "enhansome/enhansome-automl-papers",
     "enhanced_repository_description": null,
