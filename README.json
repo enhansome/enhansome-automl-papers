@@ -65,7 +65,7 @@
             "last_commit": "2023-11-30T16:30:21Z",
             "owner": "tensorflow",
             "repo": "adanet",
-            "stars": 3454
+            "stars": 3453
           }
         },
         {
@@ -347,10 +347,10 @@
             "archived": false,
             "id": 17371412,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T17:15:03Z",
+            "last_commit": "2026-08-26T10:05:32Z",
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7495
+            "stars": 7494
           }
         },
         {
@@ -515,7 +515,7 @@
             "last_commit": "2026-07-27T09:30:27Z",
             "owner": "mljar",
             "repo": "mljar-supervised",
-            "stars": 3286
+            "stars": 3287
           }
         },
         {
@@ -560,7 +560,7 @@
             "last_commit": "2024-07-03T10:55:10Z",
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14362
+            "stars": 14360
           }
         },
         {
@@ -740,7 +740,7 @@
             "last_commit": "2026-06-02T18:03:07Z",
             "owner": "salesforce",
             "repo": "TransmogrifAI",
-            "stars": 2276
+            "stars": 2277
           }
         },
         {
@@ -752,10 +752,10 @@
             "archived": false,
             "id": 71932349,
             "language": "Python",
-            "last_commit": "2026-08-25T23:40:17Z",
+            "last_commit": "2026-08-27T03:55:07Z",
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43611
+            "stars": 43616
           }
         },
         {
@@ -827,10 +827,10 @@
             "archived": false,
             "id": 122299416,
             "language": "Python",
-            "last_commit": "2026-08-21T08:05:33Z",
+            "last_commit": "2026-08-26T02:53:39Z",
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 14709
+            "stars": 14713
           }
         }
       ],
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:57:26.808Z",
+    "last_updated": "2026-08-27T05:00:49.397Z",
     "original_repository": "hibayesian/awesome-automl-papers",
     "original_repository_id": 111381431,
     "original_repository_sha": "0317821496b4aed694d2197ea50d96dd08716946",
