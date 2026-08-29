@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 468615382,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-01T03:21:42Z",
+                "open_issues": 0,
                 "owner": "marscod",
                 "repo": "BERT-Sort",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:12.401Z"
             }
@@ -35,12 +40,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoML Techniques for Data Streams - Research Paper",
+                "homepage": "https://arxiv.org/abs/2106.07317",
                 "id": 220987200,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2023-06-29T21:04:44Z",
+                "open_issues": 0,
                 "owner": "AlexImb",
                 "repo": "automl-streams-research-paper",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "automl",
+                  "data-streaming"
+                ]
               },
               "first_seen": "2026-08-28T07:04:12.401Z"
             }
@@ -62,12 +75,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Fast and flexible AutoML with learning guarantees.",
+            "homepage": "https://adanet.readthedocs.io",
             "id": 139064580,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-30T16:30:21Z",
+            "open_issues": 67,
             "owner": "tensorflow",
             "repo": "adanet",
-            "stars": 3453
+            "stars": 3453,
+            "topics": [
+              "automl",
+              "deep-learning",
+              "distributed-training",
+              "ensemble",
+              "gpu",
+              "learning-theory",
+              "machine-learning",
+              "neural-architecture-search",
+              "python",
+              "tensorflow",
+              "tpu"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -78,12 +108,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source implementation of Google Vizier for hyper parameters tuning",
+            "homepage": "https://advisor.readthedocs.io",
             "id": 103483215,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2019-11-11T06:59:32Z",
+            "open_issues": 21,
             "owner": "tobegit3hub",
             "repo": "advisor",
-            "stars": 1563
+            "stars": 1563,
+            "topics": [
+              "algorithm",
+              "automl",
+              "blackbox",
+              "dl",
+              "hyperparameters",
+              "ml",
+              "optimization",
+              "tunning"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -94,12 +138,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auto Tune Models - A multi-tenant, multi-data system for automated machine learning (model selection and tuning).",
+            "homepage": "https://hdi-project.github.io/ATM/",
             "id": 70934951,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-02-21T17:44:07Z",
+            "open_issues": 20,
             "owner": "HDI-Project",
             "repo": "ATM",
-            "stars": 529
+            "stars": 529,
+            "topics": [
+              "automl",
+              "data-science",
+              "distributed-computing",
+              "hyperparameter-optimization",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -110,12 +165,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An automatic ML model optimization tool.",
+            "homepage": "https://lge-arc-advancedai.github.io/auptimizer/",
             "id": 207935839,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-01-27T02:15:43Z",
+            "open_issues": 22,
             "owner": "LGE-ARC-AdvancedAI",
             "repo": "auptimizer",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "automated-machine-learning",
+              "automl",
+              "data-engineering",
+              "data-science",
+              "deep-learning",
+              "hpo",
+              "hyperparameter-optimization",
+              "hyperparameter-tuning",
+              "machine-learning",
+              "neural-networks"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -126,12 +197,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AutoML library for deep learning",
+            "homepage": "http://autokeras.com/",
             "id": 111340129,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-25T02:26:35Z",
+            "open_issues": 160,
             "owner": "keras-team",
             "repo": "autokeras",
-            "stars": 9327
+            "stars": 9327,
+            "topics": [
+              "autodl",
+              "automated-machine-learning",
+              "automl",
+              "deep-learning",
+              "keras",
+              "machine-learning",
+              "neural-architecture-search",
+              "python",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -142,12 +228,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AutoML library for deep learning",
+            "homepage": "http://autokeras.com/",
             "id": 111340129,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-25T02:26:35Z",
+            "open_issues": 160,
             "owner": "keras-team",
             "repo": "autokeras",
-            "stars": 9327
+            "stars": 9327,
+            "topics": [
+              "autodl",
+              "automated-machine-learning",
+              "automl",
+              "deep-learning",
+              "keras",
+              "machine-learning",
+              "neural-architecture-search",
+              "python",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -158,12 +259,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic architecture search and hyperparameter optimization for PyTorch",
+            "homepage": null,
             "id": 159791040,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-09T06:17:08Z",
+            "open_issues": 75,
             "owner": "automl",
             "repo": "Auto-PyTorch",
-            "stars": 2541
+            "stars": 2541,
+            "topics": [
+              "automl",
+              "deep-learning",
+              "pytorch",
+              "tabular-data"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -174,12 +285,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A full pipeline AutoML tool for tabular data",
+            "homepage": "https://hypergbm.readthedocs.io/",
             "id": 306202835,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-20T02:07:19Z",
+            "open_issues": 8,
             "owner": "DataCanvasIO",
             "repo": "HyperGBM",
-            "stars": 360
+            "stars": 360,
+            "topics": [
+              "adversarial-validation",
+              "automl",
+              "catboost",
+              "dask",
+              "dask-distributed",
+              "datacleaning",
+              "distributed-training",
+              "ensemble-learning",
+              "fullpipeline",
+              "gbm",
+              "gpu-acceleration",
+              "lightgbm",
+              "preprocessing",
+              "pseudo-labeling",
+              "rapidsai",
+              "semi-supervised-learning",
+              "sklearn",
+              "tabular-data",
+              "xgboost"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -190,12 +326,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AutoDL tool for Neural Architecture Search and Hyperparameter Optimization on Tensorflow and Keras",
+            "homepage": null,
             "id": 306203516,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2021-06-01T08:23:30Z",
+            "open_issues": 0,
             "owner": "DataCanvasIO",
             "repo": "HyperKeras",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "autodl",
+              "automl",
+              "cnn",
+              "deep-learning",
+              "dnn",
+              "enas",
+              "keras",
+              "nasnet",
+              "neural-architecture-search",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -206,12 +358,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A General Automated Machine Learning framework to simplify the development of End-to-end AutoML toolkits in specific domains.",
+            "homepage": "https://hypernets.readthedocs.io/",
             "id": 274071592,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-20T02:07:49Z",
+            "open_issues": 0,
             "owner": "DataCanvasIO",
             "repo": "Hypernets",
-            "stars": 266
+            "stars": 266,
+            "topics": [
+              "autodl",
+              "automl",
+              "enas",
+              "evolutionary-algorithms",
+              "hyperparameter-optimization",
+              "hyperparameter-tuning",
+              "keras",
+              "mcts",
+              "monte-carlo-tree-search",
+              "nas",
+              "nasnet",
+              "neural-architecture-search",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -222,12 +393,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated Machine Learning with scikit-learn",
+            "homepage": "https://automl.github.io/auto-sklearn",
             "id": 38441254,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-29T14:03:15Z",
+            "open_issues": 207,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8127
+            "stars": 8128,
+            "topics": [
+              "automated-machine-learning",
+              "automl",
+              "bayesian-optimization",
+              "hyperparameter-optimization",
+              "hyperparameter-search",
+              "hyperparameter-tuning",
+              "meta-learning",
+              "metalearning",
+              "scikit-learn",
+              "smac"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -238,12 +425,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated Machine Learning with scikit-learn",
+            "homepage": "https://automl.github.io/auto-sklearn",
             "id": 38441254,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-29T14:03:15Z",
+            "open_issues": 207,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8127
+            "stars": 8128,
+            "topics": [
+              "automated-machine-learning",
+              "automl",
+              "bayesian-optimization",
+              "hyperparameter-optimization",
+              "hyperparameter-search",
+              "hyperparameter-tuning",
+              "meta-learning",
+              "metalearning",
+              "scikit-learn",
+              "smac"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -254,12 +457,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[UNMAINTAINED] Automated machine learning for analytics & production",
+            "homepage": "http://auto-ml.readthedocs.io",
             "id": 65155092,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-02-10T07:52:35Z",
+            "open_issues": 187,
             "owner": "ClimbsRocks",
             "repo": "auto_ml",
-            "stars": 1654
+            "stars": 1654,
+            "topics": [
+              "analytics",
+              "artificial-intelligence",
+              "automated-machine-learning",
+              "automl",
+              "data-science",
+              "deep-learning",
+              "deeplearning",
+              "feature-engineering",
+              "gradient-boosting",
+              "hyperparameter-optimization",
+              "keras",
+              "lightgbm",
+              "machine-learning",
+              "machine-learning-library",
+              "machine-learning-pipelines",
+              "production-ready",
+              "python",
+              "scikit-learn",
+              "tensorflow",
+              "xgboost"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -270,12 +499,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python implementation of global optimization with gaussian processes.",
+            "homepage": "https://bayesian-optimization.github.io/BayesianOptimization/index.html",
             "id": 20556335,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-21T14:54:17Z",
+            "open_issues": 7,
             "owner": "bayesian-optimization",
             "repo": "BayesianOptimization",
-            "stars": 8697
+            "stars": 8697,
+            "topics": [
+              "bayesian-optimization",
+              "gaussian-processes",
+              "optimization",
+              "python",
+              "simple"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -286,12 +526,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BayesOpt: A toolbox for bayesian optimization, experimental design and stochastic bandits.",
+            "homepage": null,
             "id": 9222673,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2023-03-14T16:46:07Z",
+            "open_issues": 8,
             "owner": "rmcantin",
             "repo": "bayesopt",
-            "stars": 435
+            "stars": 435,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -302,12 +547,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Early POC of genetic neural architecture search",
+            "homepage": null,
             "id": 81520737,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-25T14:45:47Z",
+            "open_issues": 7,
             "owner": "joeddav",
             "repo": "devol",
-            "stars": 951
+            "stars": 951,
+            "topics": [
+              "automl",
+              "computer-vision",
+              "deep-learning",
+              "genetic-algorithm",
+              "keras",
+              "machine-learning",
+              "neural-architecture-search"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -318,12 +576,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A general, modular, and programmable architecture search framework",
+            "homepage": "https://deep-architect.readthedocs.io/en/latest/",
             "id": 199943153,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-24T23:41:07Z",
+            "open_issues": 4,
             "owner": "negrinho",
             "repo": "deep_architect",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "architecture-search",
+              "auto-ml",
+              "automatic-machine-learning",
+              "colab",
+              "colab-notebook",
+              "deep-learning",
+              "deep-neural-networks",
+              "hyperparameter-optimization",
+              "machine-learning",
+              "neural-architecture-search",
+              "neural-networks",
+              "pytorch",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -334,12 +611,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.",
+            "homepage": "https://determined.ai",
             "id": 253846879,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-20T19:09:46Z",
+            "open_issues": 108,
             "owner": "determined-ai",
             "repo": "determined",
-            "stars": 3236
+            "stars": 3237,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "distributed-training",
+              "hyperparameter-optimization",
+              "hyperparameter-search",
+              "hyperparameter-tuning",
+              "keras",
+              "kubernetes",
+              "machine-learning",
+              "ml-infrastructure",
+              "ml-platform",
+              "mlops",
+              "pytorch",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -350,12 +647,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gradient based hyperparameter optimization & meta-learning package for TensorFlow",
+            "homepage": null,
             "id": 113098403,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2020-03-24T12:22:57Z",
+            "open_issues": 2,
             "owner": "lucfra",
             "repo": "FAR-HO",
-            "stars": 192
+            "stars": 192,
+            "topics": [
+              "gradient-descent",
+              "hyperparameter-optimization",
+              "optimization",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -366,12 +673,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.",
+            "homepage": "http://h2o.ai",
             "id": 17371412,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T10:05:32Z",
+            "open_issues": 2883,
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7494
+            "stars": 7496,
+            "topics": [
+              "automl",
+              "big-data",
+              "data-science",
+              "deep-learning",
+              "distributed",
+              "ensemble-learning",
+              "gbm",
+              "gpu",
+              "h2o",
+              "h2o-automl",
+              "hadoop",
+              "java",
+              "machine-learning",
+              "naive-bayes",
+              "opensource",
+              "pca",
+              "python",
+              "r",
+              "random-forest",
+              "spark"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -382,12 +715,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a distributed Hyperband implementation on Steroids",
+            "homepage": null,
             "id": 114566317,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-10-16T06:18:34Z",
+            "open_issues": 66,
             "owner": "automl",
             "repo": "HpBandSter",
-            "stars": 633
+            "stars": 633,
+            "topics": [
+              "automated-machine-learning",
+              "automl",
+              "bayesian-optimization",
+              "hyperparameter-optimization",
+              "neural-architecture-search"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -398,12 +742,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tuning hyperparams fast with Hyperband",
+            "homepage": "http://fastml.com/tuning-hyperparams-fast-with-hyperband/",
             "id": 83242270,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2018-08-15T09:21:05Z",
+            "open_issues": 9,
             "owner": "zygmuntz",
             "repo": "hyperband",
-            "stars": 600
+            "stars": 600,
+            "topics": [
+              "gradient-boosting",
+              "gradient-boosting-classifier",
+              "hyperparameter-optimization",
+              "hyperparameter-tuning",
+              "hyperparameters",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -414,12 +770,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tuning hyperparams fast with Hyperband",
+            "homepage": "http://fastml.com/tuning-hyperparams-fast-with-hyperband/",
             "id": 83242270,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2018-08-15T09:21:05Z",
+            "open_issues": 9,
             "owner": "zygmuntz",
             "repo": "hyperband",
-            "stars": 600
+            "stars": 600,
+            "topics": [
+              "gradient-boosting",
+              "gradient-boosting-classifier",
+              "hyperparameter-optimization",
+              "hyperparameter-tuning",
+              "hyperparameters",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -430,12 +798,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed Asynchronous Hyperparameter Optimization in Python",
+            "homepage": "http://hyperopt.github.io/hyperopt",
             "id": 2337852,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T21:31:40Z",
+            "open_issues": 9,
             "owner": "hyperopt",
             "repo": "hyperopt",
-            "stars": 7593
+            "stars": 7593,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -446,12 +821,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed Asynchronous Hyperparameter Optimization in Python",
+            "homepage": "http://hyperopt.github.io/hyperopt",
             "id": 2337852,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T21:31:40Z",
+            "open_issues": 9,
             "owner": "hyperopt",
             "repo": "hyperopt",
-            "stars": 7593
+            "stars": 7593,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -462,12 +844,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hyper-parameter optimization for sklearn",
+            "homepage": "hyperopt.github.io/hyperopt-sklearn",
             "id": 8293893,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-15T17:15:54Z",
+            "open_issues": 78,
             "owner": "hyperopt",
             "repo": "hyperopt-sklearn",
-            "stars": 1648
+            "stars": 1648,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -478,12 +865,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hyper-parameter optimization for sklearn",
+            "homepage": "hyperopt.github.io/hyperopt-sklearn",
             "id": 8293893,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-15T17:15:54Z",
+            "open_issues": 78,
             "owner": "hyperopt",
             "repo": "hyperopt-sklearn",
-            "stars": 1648
+            "stars": 1648,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -494,12 +886,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy hyperparameter optimization and automatic result saving across machine learning algorithms and libraries",
+            "homepage": null,
             "id": 135771325,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-01-20T03:52:41Z",
+            "open_issues": 37,
             "owner": "HunterMcGushion",
             "repo": "hyperparameter_hunter",
-            "stars": 705
+            "stars": 705,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "catboost",
+              "data-science",
+              "deep-learning",
+              "experimentation",
+              "feature-engineering",
+              "hyperparameter-optimization",
+              "hyperparameter-tuning",
+              "keras",
+              "lightgbm",
+              "machine-learning",
+              "ml",
+              "neural-network",
+              "optimization",
+              "python",
+              "rgf",
+              "scikit-learn",
+              "sklearn",
+              "xgboost"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -510,12 +928,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated Machine Learning on Kubernetes",
+            "homepage": "https://www.kubeflow.org/docs/components/katib",
             "id": 127941481,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T18:36:18Z",
+            "open_issues": 111,
             "owner": "kubeflow",
             "repo": "katib",
-            "stars": 1699
+            "stars": 1699,
+            "topics": [
+              "ai",
+              "automl",
+              "huggingface",
+              "hyperparameter-tuning",
+              "jax",
+              "kubeflow",
+              "kubernetes",
+              "llm",
+              "machine-learning",
+              "mlops",
+              "neural-architecture-search",
+              "pytorch",
+              "scikit-learn",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -526,12 +964,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Milano is a tool for automating hyper-parameters search for your models on a backend of your choice.",
+            "homepage": null,
             "id": 147424942,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2018-11-07T22:32:56Z",
+            "open_issues": 0,
             "owner": "NVIDIA",
             "repo": "Milano",
-            "stars": 154
+            "stars": 154,
+            "topics": [
+              "automl",
+              "deep-learning",
+              "deep-neural-networks",
+              "hyperparameter-optimization",
+              "hyperparameter-tuning",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -542,12 +992,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python package for AutoML on Tabular Data with Feature Engineering, Hyper-Parameters Tuning, Explanations and Automatic Documentation",
+            "homepage": "https://mljar.com",
             "id": 156218203,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-27T09:30:27Z",
+            "open_issues": 129,
             "owner": "mljar",
             "repo": "mljar-supervised",
-            "stars": 3286
+            "stars": 3287,
+            "topics": [
+              "automated-machine-learning",
+              "automl",
+              "automl-api",
+              "automl-python",
+              "catboost",
+              "data-science",
+              "decision-tree",
+              "ensemble",
+              "feature-engineering",
+              "hyper-parameters",
+              "hyperparameter-optimization",
+              "lightgbm",
+              "machine-learning",
+              "mljar",
+              "neural-network",
+              "random-forest",
+              "scikit-learn",
+              "xgboost"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -558,12 +1032,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated machine learning in mlr3",
+            "homepage": null,
             "id": 265875726,
             "language": "R",
+            "license": "LGPL-3.0",
             "last_commit": "2022-02-20T17:53:19Z",
+            "open_issues": 4,
             "owner": "a-hanf",
             "repo": "mlr3automl",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "automl",
+              "mlr3",
+              "r"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -574,12 +1057,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural Architecture Search with Bayesian Optimisation and Optimal Transport",
+            "homepage": null,
             "id": 136734134,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-01-28T20:45:09Z",
+            "open_issues": 5,
             "owner": "kirthevasank",
             "repo": "nasbot",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "bayesian-optimization",
+              "gaussian-processes",
+              "neural-architecture-search",
+              "optimal-transport"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -590,12 +1083,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+            "homepage": "https://nni.readthedocs.io",
             "id": 135673451,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-03T10:55:10Z",
+            "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14360
+            "stars": 14361,
+            "topics": [
+              "automated-machine-learning",
+              "automl",
+              "bayesian-optimization",
+              "data-science",
+              "deep-learning",
+              "deep-neural-network",
+              "distributed",
+              "feature-engineering",
+              "hyperparameter-optimization",
+              "hyperparameter-tuning",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "mlops",
+              "model-compression",
+              "nas",
+              "neural-architecture-search",
+              "neural-network",
+              "python",
+              "pytorch",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -606,12 +1125,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AutoML pipeline selection system to quickly select a promising pipeline for a new dataset.",
+            "homepage": null,
             "id": 121367082,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-10-23T00:22:11Z",
+            "open_issues": 1,
             "owner": "udellgroup",
             "repo": "oboe",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "automl",
+              "collaborative-filtering",
+              "ml-pipelines"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -622,12 +1150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "optimization routines for hyperparameter tuning",
+            "homepage": "http://www.optunity.net",
             "id": 20266254,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-25T01:31:29Z",
+            "open_issues": 52,
             "owner": "claesenm",
             "repo": "optunity",
-            "stars": 428
+            "stars": 428,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -638,12 +1171,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "optimization routines for hyperparameter tuning",
+            "homepage": "http://www.optunity.net",
             "id": 20266254,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-25T01:31:29Z",
+            "open_issues": 52,
             "owner": "claesenm",
             "repo": "optunity",
-            "stars": 428
+            "stars": 428,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -654,12 +1192,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RBFOpt library for black-box optimization",
+            "homepage": null,
             "id": 37258842,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-30T03:50:27Z",
+            "open_issues": 1,
             "owner": "coin-or",
             "repo": "rbfopt",
-            "stars": 196
+            "stars": 196,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -670,12 +1213,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RBFOpt library for black-box optimization",
+            "homepage": null,
             "id": 37258842,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-30T03:50:27Z",
+            "open_issues": 1,
             "owner": "coin-or",
             "repo": "rbfopt",
-            "stars": 196
+            "stars": 196,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -686,12 +1234,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RoBO: a Robust Bayesian Optimization framework",
+            "homepage": null,
             "id": 32976730,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2019-04-30T08:47:29Z",
+            "open_issues": 26,
             "owner": "automl",
             "repo": "RoBO",
-            "stars": 494
+            "stars": 494,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -702,12 +1255,33 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Sequential model-based optimization with a  `scipy.optimize` interface",
+            "homepage": "https://scikit-optimize.github.io",
             "id": 54340642,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-02-23T07:05:22Z",
+            "open_issues": 318,
             "owner": "scikit-optimize",
             "repo": "scikit-optimize",
-            "stars": 2829
+            "stars": 2829,
+            "topics": [
+              "bayesian-optimization",
+              "bayesopt",
+              "binder",
+              "hacktoberfest",
+              "hyperparameter",
+              "hyperparameter-optimization",
+              "hyperparameter-search",
+              "hyperparameter-tuning",
+              "machine-learning",
+              "optimization",
+              "scientific-computing",
+              "scientific-visualization",
+              "scikit-learn",
+              "sequential-recommendation",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -718,12 +1292,33 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Sequential model-based optimization with a  `scipy.optimize` interface",
+            "homepage": "https://scikit-optimize.github.io",
             "id": 54340642,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-02-23T07:05:22Z",
+            "open_issues": 318,
             "owner": "scikit-optimize",
             "repo": "scikit-optimize",
-            "stars": 2829
+            "stars": 2829,
+            "topics": [
+              "bayesian-optimization",
+              "bayesopt",
+              "binder",
+              "hacktoberfest",
+              "hyperparameter",
+              "hyperparameter-optimization",
+              "hyperparameter-search",
+              "hyperparameter-tuning",
+              "machine-learning",
+              "optimization",
+              "scientific-computing",
+              "scientific-visualization",
+              "scikit-learn",
+              "sequential-recommendation",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -734,12 +1329,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SMAC3: A Versatile Bayesian Optimization Package for Hyperparameter Optimization",
+            "homepage": "https://automl.github.io/SMAC3/latest/",
             "id": 65900469,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T11:10:11Z",
+            "open_issues": 126,
             "owner": "automl",
             "repo": "SMAC3",
-            "stars": 1244
+            "stars": 1244,
+            "topics": [
+              "algorithm-configuration",
+              "automated-machine-learning",
+              "automl",
+              "bayesian-optimisation",
+              "bayesian-optimization",
+              "configuration",
+              "gaussian-process",
+              "hyperparameter-optimization",
+              "hyperparameter-search",
+              "hyperparameter-tuning",
+              "random-forest"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -750,12 +1362,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SMAC3: A Versatile Bayesian Optimization Package for Hyperparameter Optimization",
+            "homepage": "https://automl.github.io/SMAC3/latest/",
             "id": 65900469,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T11:10:11Z",
+            "open_issues": 126,
             "owner": "automl",
             "repo": "SMAC3",
-            "stars": 1244
+            "stars": 1244,
+            "topics": [
+              "algorithm-configuration",
+              "automated-machine-learning",
+              "automl",
+              "bayesian-optimisation",
+              "bayesian-optimization",
+              "configuration",
+              "gaussian-process",
+              "hyperparameter-optimization",
+              "hyperparameter-search",
+              "hyperparameter-tuning",
+              "random-forest"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -766,12 +1395,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.",
+            "homepage": "http://epistasislab.github.io/tpot/",
             "id": 45495679,
             "language": "Jupyter Notebook",
+            "license": "LGPL-3.0",
             "last_commit": "2025-09-11T21:32:19Z",
+            "open_issues": 312,
             "owner": "EpistasisLab",
             "repo": "tpot",
-            "stars": 10052
+            "stars": 10051,
+            "topics": [
+              "adsp",
+              "ag066833",
+              "aiml",
+              "alzheimer",
+              "alzheimers",
+              "automated-machine-learning",
+              "automation",
+              "automl",
+              "data-science",
+              "feature-engineering",
+              "gradient-boosting",
+              "hyperparameter-optimization",
+              "machine-learning",
+              "model-selection",
+              "nia",
+              "parameter-tuning",
+              "python",
+              "random-forest",
+              "scikit-learn",
+              "u01ag066833"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -782,12 +1437,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning",
+            "homepage": "https://transmogrif.ai",
             "id": 109289451,
             "language": "Scala",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-02T18:03:07Z",
+            "open_issues": 46,
             "owner": "salesforce",
             "repo": "TransmogrifAI",
-            "stars": 2277
+            "stars": 2277,
+            "topics": [
+              "ai",
+              "automated-machine-learning",
+              "automl",
+              "dsl",
+              "einstein",
+              "estimators",
+              "feature-engineering",
+              "features",
+              "machine-learning",
+              "ml",
+              "pipelines",
+              "salesforce",
+              "scala",
+              "spark",
+              "sparkml",
+              "structured-data",
+              "transformations",
+              "transformers",
+              "transmogrification",
+              "transmogrify"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -798,12 +1479,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+            "homepage": "https://ray.io",
             "id": 71932349,
             "language": "Python",
-            "last_commit": "2026-08-28T05:06:35Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:52:53Z",
+            "open_issues": 3536,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43634
+            "stars": 43639,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "deployment",
+              "distributed",
+              "hyperparameter-optimization",
+              "hyperparameter-search",
+              "large-language-models",
+              "llm",
+              "llm-inference",
+              "llm-serving",
+              "machine-learning",
+              "optimization",
+              "parallel",
+              "python",
+              "pytorch",
+              "ray",
+              "reinforcement-learning",
+              "rllib",
+              "serving",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -814,12 +1521,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling in Python.",
+            "homepage": "http://xcessiv.readthedocs.io",
             "id": 84231689,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2018-06-06T22:23:37Z",
+            "open_issues": 22,
             "owner": "reiinakano",
             "repo": "xcessiv",
-            "stars": 1265
+            "stars": 1265,
+            "topics": [
+              "automated-machine-learning",
+              "data-science",
+              "ensemble-learning",
+              "hyperparameter-optimization",
+              "machine-learning",
+              "scikit-learn",
+              "stacked-ensembles"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -830,12 +1550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SmartML: Supervised Machine Learning Automation in R",
+            "homepage": "https://bigdata.cs.ut.ee/smartml/",
             "id": 145096053,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2020-11-19T12:13:17Z",
+            "open_issues": 0,
             "owner": "DataSystemsGroupUT",
             "repo": "SmartML",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -846,12 +1571,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MLBox is a powerful Automated Machine Learning python library. ",
+            "homepage": "https://mlbox.readthedocs.io/en/latest/",
             "id": 93080181,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-08-06T18:20:04Z",
+            "open_issues": 28,
             "owner": "AxeldeRomblay",
             "repo": "MLBox",
-            "stars": 1536
+            "stars": 1536,
+            "topics": [
+              "auto-ml",
+              "automated-machine-learning",
+              "automl",
+              "classification",
+              "data-science",
+              "deep-learning",
+              "distributed",
+              "drift",
+              "encoding",
+              "kaggle",
+              "keras",
+              "lightgbm",
+              "machine-learning",
+              "optimization",
+              "pipeline",
+              "prediction",
+              "preprocessing",
+              "regression",
+              "stacking",
+              "xgboost"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -862,12 +1613,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation/Tutorial of using Automated Machine Learning (AutoML) methods for static/batch and online/continual learning",
+            "homepage": null,
             "id": 534477565,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-05-14T16:05:11Z",
+            "open_issues": 1,
             "owner": "Western-OC2-Lab",
             "repo": "AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics",
-            "stars": 631
+            "stars": 631,
+            "topics": [
+              "automated-machine-learning",
+              "automl",
+              "concept-drift",
+              "data-preprocessing",
+              "data-stream-processing",
+              "data-streams",
+              "deep-learning",
+              "feature-engineering",
+              "hyperparameter-tuning",
+              "intrusion-detection-system",
+              "iot",
+              "iot-data-analytics",
+              "machine-learning",
+              "model-selection",
+              "python-examples",
+              "python-samples"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -878,12 +1651,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A hyperparameter optimization framework",
+            "homepage": "https://optuna.org",
             "id": 122299416,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T09:41:40Z",
+            "open_issues": 21,
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 14717
+            "stars": 14722,
+            "topics": [
+              "distributed",
+              "hyperparameter-optimization",
+              "machine-learning",
+              "parallel",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         }
@@ -900,12 +1684,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
+            "homepage": null,
             "id": 111381431,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-06-11T16:51:05Z",
+            "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4154
+            "stars": 4154,
+            "topics": [
+              "automated-feature-engineering",
+              "automl",
+              "hyperparameter-optimization",
+              "neural-architecture-search"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -916,12 +1710,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
+            "homepage": null,
             "id": 111381431,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-06-11T16:51:05Z",
+            "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4154
+            "stars": 4154,
+            "topics": [
+              "automated-feature-engineering",
+              "automl",
+              "hyperparameter-optimization",
+              "neural-architecture-search"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         },
@@ -932,12 +1736,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
+            "homepage": null,
             "id": 111381431,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-06-11T16:51:05Z",
+            "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4154
+            "stars": 4154,
+            "topics": [
+              "automated-feature-engineering",
+              "automl",
+              "hyperparameter-optimization",
+              "neural-architecture-search"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
         }
@@ -946,15 +1760,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:04:12.401Z",
+    "last_updated": "2026-08-29T04:22:24.899Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
+      "homepage": null,
       "id": 111381431,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2024-06-11T16:51:05Z",
+      "open_issues": 2,
       "owner": "hibayesian",
       "repo": "awesome-automl-papers",
-      "stars": 4154
+      "stars": 4154,
+      "topics": [
+        "automated-feature-engineering",
+        "automl",
+        "hyperparameter-optimization",
+        "neural-architecture-search"
+      ]
     },
     "original_repository_sha": "0317821496b4aed694d2197ea50d96dd08716946",
     "enhanced_repository": "enhansome/enhansome-automl-papers",
