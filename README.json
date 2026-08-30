@@ -402,7 +402,7 @@
             "open_issues": 207,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8128,
+            "stars": 8127,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -434,7 +434,7 @@
             "open_issues": 207,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8128,
+            "stars": 8127,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -1001,7 +1001,7 @@
             "open_issues": 129,
             "owner": "mljar",
             "repo": "mljar-supervised",
-            "stars": 3287,
+            "stars": 3288,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T02:52:53Z",
-            "open_issues": 3536,
+            "last_commit": "2026-08-29T21:58:04Z",
+            "open_issues": 3537,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43639,
+            "stars": 43648,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1660,7 +1660,7 @@
             "open_issues": 21,
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 14722,
+            "stars": 14726,
             "topics": [
               "distributed",
               "hyperparameter-optimization",
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:22:24.899Z",
+    "last_updated": "2026-08-30T01:38:12.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
