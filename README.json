@@ -508,7 +508,7 @@
             "open_issues": 7,
             "owner": "bayesian-optimization",
             "repo": "BayesianOptimization",
-            "stars": 8697,
+            "stars": 8699,
             "topics": [
               "bayesian-optimization",
               "gaussian-processes",
@@ -620,7 +620,7 @@
             "open_issues": 108,
             "owner": "determined-ai",
             "repo": "determined",
-            "stars": 3237,
+            "stars": 3238,
             "topics": [
               "data-science",
               "deep-learning",
@@ -682,7 +682,7 @@
             "open_issues": 2883,
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7496,
+            "stars": 7497,
             "topics": [
               "automl",
               "big-data",
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T21:58:04Z",
-            "open_issues": 3537,
+            "last_commit": "2026-08-31T00:13:33Z",
+            "open_issues": 3547,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43648,
+            "stars": 43659,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1657,10 +1657,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-27T09:41:40Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 14726,
+            "stars": 14729,
             "topics": [
               "distributed",
               "hyperparameter-optimization",
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:38:12.093Z",
+    "last_updated": "2026-08-31T01:35:35.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
