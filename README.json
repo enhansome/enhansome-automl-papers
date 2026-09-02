@@ -206,7 +206,7 @@
             "open_issues": 160,
             "owner": "keras-team",
             "repo": "autokeras",
-            "stars": 9326,
+            "stars": 9327,
             "topics": [
               "autodl",
               "automated-machine-learning",
@@ -237,7 +237,7 @@
             "open_issues": 160,
             "owner": "keras-team",
             "repo": "autokeras",
-            "stars": 9326,
+            "stars": 9327,
             "topics": [
               "autodl",
               "automated-machine-learning",
@@ -508,7 +508,7 @@
             "open_issues": 7,
             "owner": "bayesian-optimization",
             "repo": "BayesianOptimization",
-            "stars": 8699,
+            "stars": 8700,
             "topics": [
               "bayesian-optimization",
               "gaussian-processes",
@@ -620,7 +620,7 @@
             "open_issues": 108,
             "owner": "determined-ai",
             "repo": "determined",
-            "stars": 3238,
+            "stars": 3239,
             "topics": [
               "data-science",
               "deep-learning",
@@ -678,11 +678,11 @@
             "id": 17371412,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T14:08:19Z",
+            "last_commit": "2026-09-02T00:35:23Z",
             "open_issues": 2883,
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7497,
+            "stars": 7498,
             "topics": [
               "automl",
               "big-data",
@@ -807,7 +807,7 @@
             "open_issues": 9,
             "owner": "hyperopt",
             "repo": "hyperopt",
-            "stars": 7593,
+            "stars": 7592,
             "topics": [
               "hacktoberfest"
             ]
@@ -830,7 +830,7 @@
             "open_issues": 9,
             "owner": "hyperopt",
             "repo": "hyperopt",
-            "stars": 7593,
+            "stars": 7592,
             "topics": [
               "hacktoberfest"
             ]
@@ -933,8 +933,8 @@
             "id": 127941481,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T18:36:18Z",
-            "open_issues": 111,
+            "last_commit": "2026-09-01T20:17:39Z",
+            "open_issues": 113,
             "owner": "kubeflow",
             "repo": "katib",
             "stars": 1699,
@@ -1092,7 +1092,7 @@
             "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14359,
+            "stars": 14358,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -1243,7 +1243,7 @@
             "open_issues": 26,
             "owner": "automl",
             "repo": "RoBO",
-            "stars": 494,
+            "stars": 495,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T01:09:17Z",
-            "open_issues": 3546,
+            "last_commit": "2026-09-02T00:43:31Z",
+            "open_issues": 3543,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43668,
+            "stars": 43680,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1657,10 +1657,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T11:36:31Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 14731,
+            "stars": 14734,
             "topics": [
               "distributed",
               "hyperparameter-optimization",
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T02:02:05.710Z",
+    "last_updated": "2026-09-02T01:23:05.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
