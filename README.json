@@ -399,10 +399,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-06-29T14:03:15Z",
-            "open_issues": 207,
+            "open_issues": 208,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8128,
+            "stars": 8127,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -431,10 +431,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-06-29T14:03:15Z",
-            "open_issues": 207,
+            "open_issues": 208,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8128,
+            "stars": 8127,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -508,7 +508,7 @@
             "open_issues": 7,
             "owner": "bayesian-optimization",
             "repo": "BayesianOptimization",
-            "stars": 8701,
+            "stars": 8704,
             "topics": [
               "bayesian-optimization",
               "gaussian-processes",
@@ -1001,7 +1001,7 @@
             "open_issues": 129,
             "owner": "mljar",
             "repo": "mljar-supervised",
-            "stars": 3289,
+            "stars": 3290,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -1404,7 +1404,7 @@
             "open_issues": 312,
             "owner": "EpistasisLab",
             "repo": "tpot",
-            "stars": 10051,
+            "stars": 10050,
             "topics": [
               "adsp",
               "ag066833",
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T01:19:08Z",
-            "open_issues": 3553,
+            "last_commit": "2026-09-05T00:21:08Z",
+            "open_issues": 3564,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43697,
+            "stars": 43702,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1656,11 +1656,11 @@
             "id": 122299416,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-02T10:20:56Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-04T06:25:48Z",
+            "open_issues": 21,
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 14743,
+            "stars": 14744,
             "topics": [
               "distributed",
               "hyperparameter-optimization",
@@ -1693,7 +1693,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4155,
+            "stars": 4156,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1719,7 +1719,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4155,
+            "stars": 4156,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1745,7 +1745,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4155,
+            "stars": 4156,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T01:21:09.291Z",
+    "last_updated": "2026-09-05T01:22:55.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
@@ -1772,7 +1772,7 @@
       "open_issues": 2,
       "owner": "hibayesian",
       "repo": "awesome-automl-papers",
-      "stars": 4155,
+      "stars": 4156,
       "topics": [
         "automated-feature-engineering",
         "automl",
