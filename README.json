@@ -206,7 +206,7 @@
             "open_issues": 161,
             "owner": "keras-team",
             "repo": "autokeras",
-            "stars": 9328,
+            "stars": 9329,
             "topics": [
               "autodl",
               "automated-machine-learning",
@@ -237,7 +237,7 @@
             "open_issues": 161,
             "owner": "keras-team",
             "repo": "autokeras",
-            "stars": 9328,
+            "stars": 9329,
             "topics": [
               "autodl",
               "automated-machine-learning",
@@ -853,7 +853,7 @@
             "open_issues": 78,
             "owner": "hyperopt",
             "repo": "hyperopt-sklearn",
-            "stars": 1648,
+            "stars": 1647,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
@@ -874,7 +874,7 @@
             "open_issues": 78,
             "owner": "hyperopt",
             "repo": "hyperopt-sklearn",
-            "stars": 1648,
+            "stars": 1647,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
@@ -933,7 +933,7 @@
             "id": 127941481,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T15:54:15Z",
+            "last_commit": "2026-09-09T10:15:50Z",
             "open_issues": 115,
             "owner": "kubeflow",
             "repo": "katib",
@@ -1001,7 +1001,7 @@
             "open_issues": 129,
             "owner": "mljar",
             "repo": "mljar-supervised",
-            "stars": 3291,
+            "stars": 3292,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -1334,8 +1334,8 @@
             "id": 65900469,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T09:31:34Z",
-            "open_issues": 126,
+            "last_commit": "2026-09-09T11:03:10Z",
+            "open_issues": 125,
             "owner": "automl",
             "repo": "SMAC3",
             "stars": 1244,
@@ -1367,8 +1367,8 @@
             "id": 65900469,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T09:31:34Z",
-            "open_issues": 126,
+            "last_commit": "2026-09-09T11:03:10Z",
+            "open_issues": 125,
             "owner": "automl",
             "repo": "SMAC3",
             "stars": 1244,
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T00:39:51Z",
-            "open_issues": 3581,
+            "last_commit": "2026-09-10T00:23:41Z",
+            "open_issues": 3564,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43748,
+            "stars": 43760,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1530,7 +1530,7 @@
             "open_issues": 22,
             "owner": "reiinakano",
             "repo": "xcessiv",
-            "stars": 1263,
+            "stars": 1264,
             "topics": [
               "automated-machine-learning",
               "data-science",
@@ -1656,11 +1656,11 @@
             "id": 122299416,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-07T06:56:15Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-09T07:11:40Z",
+            "open_issues": 18,
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 14767,
+            "stars": 14773,
             "topics": [
               "distributed",
               "hyperparameter-optimization",
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:30:48.251Z",
+    "last_updated": "2026-09-10T01:26:30.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
