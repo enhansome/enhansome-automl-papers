@@ -399,10 +399,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-07T14:03:14Z",
-            "open_issues": 208,
+            "open_issues": 209,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8128,
+            "stars": 8130,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -431,10 +431,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-07T14:03:14Z",
-            "open_issues": 208,
+            "open_issues": 209,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8128,
+            "stars": 8130,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -508,7 +508,7 @@
             "open_issues": 7,
             "owner": "bayesian-optimization",
             "repo": "BayesianOptimization",
-            "stars": 8705,
+            "stars": 8708,
             "topics": [
               "bayesian-optimization",
               "gaussian-processes",
@@ -679,10 +679,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-08T13:10:41Z",
-            "open_issues": 2883,
+            "open_issues": 2881,
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7502,
+            "stars": 7503,
             "topics": [
               "automl",
               "big-data",
@@ -807,7 +807,7 @@
             "open_issues": 10,
             "owner": "hyperopt",
             "repo": "hyperopt",
-            "stars": 7593,
+            "stars": 7595,
             "topics": [
               "hacktoberfest"
             ]
@@ -830,7 +830,7 @@
             "open_issues": 10,
             "owner": "hyperopt",
             "repo": "hyperopt",
-            "stars": 7593,
+            "stars": 7595,
             "topics": [
               "hacktoberfest"
             ]
@@ -933,11 +933,11 @@
             "id": 127941481,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T10:15:50Z",
-            "open_issues": 115,
+            "last_commit": "2026-09-10T02:57:20Z",
+            "open_issues": 116,
             "owner": "kubeflow",
             "repo": "katib",
-            "stars": 1698,
+            "stars": 1699,
             "topics": [
               "ai",
               "automl",
@@ -1092,7 +1092,7 @@
             "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14359,
+            "stars": 14360,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -1264,7 +1264,7 @@
             "open_issues": 318,
             "owner": "scikit-optimize",
             "repo": "scikit-optimize",
-            "stars": 2829,
+            "stars": 2830,
             "topics": [
               "bayesian-optimization",
               "bayesopt",
@@ -1301,7 +1301,7 @@
             "open_issues": 318,
             "owner": "scikit-optimize",
             "repo": "scikit-optimize",
-            "stars": 2829,
+            "stars": 2830,
             "topics": [
               "bayesian-optimization",
               "bayesopt",
@@ -1334,8 +1334,8 @@
             "id": 65900469,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T11:03:10Z",
-            "open_issues": 125,
+            "last_commit": "2026-09-10T16:05:29Z",
+            "open_issues": 113,
             "owner": "automl",
             "repo": "SMAC3",
             "stars": 1244,
@@ -1367,8 +1367,8 @@
             "id": 65900469,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T11:03:10Z",
-            "open_issues": 125,
+            "last_commit": "2026-09-10T16:05:29Z",
+            "open_issues": 113,
             "owner": "automl",
             "repo": "SMAC3",
             "stars": 1244,
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T00:23:41Z",
-            "open_issues": 3564,
+            "last_commit": "2026-09-11T01:25:06Z",
+            "open_issues": 3573,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43760,
+            "stars": 43771,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1656,11 +1656,11 @@
             "id": 122299416,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T07:11:40Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-10T10:49:53Z",
+            "open_issues": 19,
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 14773,
+            "stars": 14780,
             "topics": [
               "distributed",
               "hyperparameter-optimization",
@@ -1693,7 +1693,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4157,
+            "stars": 4158,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1719,7 +1719,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4157,
+            "stars": 4158,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1745,7 +1745,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4157,
+            "stars": 4158,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T01:26:30.532Z",
+    "last_updated": "2026-09-11T01:27:12.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
@@ -1772,7 +1772,7 @@
       "open_issues": 2,
       "owner": "hibayesian",
       "repo": "awesome-automl-papers",
-      "stars": 4157,
+      "stars": 4158,
       "topics": [
         "automated-feature-engineering",
         "automl",
