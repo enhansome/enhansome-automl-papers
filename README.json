@@ -206,7 +206,7 @@
             "open_issues": 161,
             "owner": "keras-team",
             "repo": "autokeras",
-            "stars": 9329,
+            "stars": 9328,
             "topics": [
               "autodl",
               "automated-machine-learning",
@@ -237,7 +237,7 @@
             "open_issues": 161,
             "owner": "keras-team",
             "repo": "autokeras",
-            "stars": 9329,
+            "stars": 9328,
             "topics": [
               "autodl",
               "automated-machine-learning",
@@ -402,7 +402,7 @@
             "open_issues": 209,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8130,
+            "stars": 8129,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -434,7 +434,7 @@
             "open_issues": 209,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8130,
+            "stars": 8129,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -508,7 +508,7 @@
             "open_issues": 7,
             "owner": "bayesian-optimization",
             "repo": "BayesianOptimization",
-            "stars": 8708,
+            "stars": 8707,
             "topics": [
               "bayesian-optimization",
               "gaussian-processes",
@@ -807,7 +807,7 @@
             "open_issues": 10,
             "owner": "hyperopt",
             "repo": "hyperopt",
-            "stars": 7595,
+            "stars": 7594,
             "topics": [
               "hacktoberfest"
             ]
@@ -830,7 +830,7 @@
             "open_issues": 10,
             "owner": "hyperopt",
             "repo": "hyperopt",
-            "stars": 7595,
+            "stars": 7594,
             "topics": [
               "hacktoberfest"
             ]
@@ -934,7 +934,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T02:57:20Z",
-            "open_issues": 116,
+            "open_issues": 117,
             "owner": "kubeflow",
             "repo": "katib",
             "stars": 1699,
@@ -1264,7 +1264,7 @@
             "open_issues": 318,
             "owner": "scikit-optimize",
             "repo": "scikit-optimize",
-            "stars": 2830,
+            "stars": 2829,
             "topics": [
               "bayesian-optimization",
               "bayesopt",
@@ -1301,7 +1301,7 @@
             "open_issues": 318,
             "owner": "scikit-optimize",
             "repo": "scikit-optimize",
-            "stars": 2830,
+            "stars": 2829,
             "topics": [
               "bayesian-optimization",
               "bayesopt",
@@ -1338,7 +1338,7 @@
             "open_issues": 113,
             "owner": "automl",
             "repo": "SMAC3",
-            "stars": 1244,
+            "stars": 1245,
             "topics": [
               "algorithm-configuration",
               "automated-machine-learning",
@@ -1371,7 +1371,7 @@
             "open_issues": 113,
             "owner": "automl",
             "repo": "SMAC3",
-            "stars": 1244,
+            "stars": 1245,
             "topics": [
               "algorithm-configuration",
               "automated-machine-learning",
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T01:25:06Z",
-            "open_issues": 3573,
+            "last_commit": "2026-09-12T00:28:55Z",
+            "open_issues": 3595,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43771,
+            "stars": 43785,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1580,7 +1580,7 @@
             "open_issues": 28,
             "owner": "AxeldeRomblay",
             "repo": "MLBox",
-            "stars": 1536,
+            "stars": 1535,
             "topics": [
               "auto-ml",
               "automated-machine-learning",
@@ -1656,8 +1656,8 @@
             "id": 122299416,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-10T10:49:53Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-11T01:45:23Z",
+            "open_issues": 22,
             "owner": "optuna",
             "repo": "optuna",
             "stars": 14780,
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T01:27:12.515Z",
+    "last_updated": "2026-09-12T01:31:49.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
