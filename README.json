@@ -682,7 +682,7 @@
             "open_issues": 2881,
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7503,
+            "stars": 7504,
             "topics": [
               "automl",
               "big-data",
@@ -1484,8 +1484,8 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T00:28:55Z",
-            "open_issues": 3595,
+            "last_commit": "2026-09-12T23:11:07Z",
+            "open_issues": 3604,
             "owner": "ray-project",
             "repo": "ray",
             "stars": 43785,
@@ -1660,7 +1660,7 @@
             "open_issues": 22,
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 14780,
+            "stars": 14785,
             "topics": [
               "distributed",
               "hyperparameter-optimization",
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T01:31:49.190Z",
+    "last_updated": "2026-09-13T01:23:58.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
