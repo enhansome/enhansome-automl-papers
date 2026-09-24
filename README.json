@@ -402,7 +402,7 @@
             "open_issues": 209,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8133,
+            "stars": 8135,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -434,7 +434,7 @@
             "open_issues": 209,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8133,
+            "stars": 8135,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -679,7 +679,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-21T09:38:52Z",
-            "open_issues": 2857,
+            "open_issues": 2856,
             "owner": "h2oai",
             "repo": "h2o-3",
             "stars": 7509,
@@ -937,7 +937,7 @@
             "open_issues": 118,
             "owner": "kubeflow",
             "repo": "katib",
-            "stars": 1704,
+            "stars": 1705,
             "topics": [
               "ai",
               "automl",
@@ -1264,7 +1264,7 @@
             "open_issues": 318,
             "owner": "scikit-optimize",
             "repo": "scikit-optimize",
-            "stars": 2829,
+            "stars": 2830,
             "topics": [
               "bayesian-optimization",
               "bayesopt",
@@ -1301,7 +1301,7 @@
             "open_issues": 318,
             "owner": "scikit-optimize",
             "repo": "scikit-optimize",
-            "stars": 2829,
+            "stars": 2830,
             "topics": [
               "bayesian-optimization",
               "bayesopt",
@@ -1334,11 +1334,11 @@
             "id": 65900469,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T09:32:54Z",
+            "last_commit": "2026-09-23T15:40:51Z",
             "open_issues": 112,
             "owner": "automl",
             "repo": "SMAC3",
-            "stars": 1249,
+            "stars": 1250,
             "topics": [
               "algorithm-configuration",
               "automated-machine-learning",
@@ -1367,11 +1367,11 @@
             "id": 65900469,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T09:32:54Z",
+            "last_commit": "2026-09-23T15:40:51Z",
             "open_issues": 112,
             "owner": "automl",
             "repo": "SMAC3",
-            "stars": 1249,
+            "stars": 1250,
             "topics": [
               "algorithm-configuration",
               "automated-machine-learning",
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T00:25:47Z",
-            "open_issues": 3595,
+            "last_commit": "2026-09-24T01:35:20Z",
+            "open_issues": 3613,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43901,
+            "stars": 43910,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1657,10 +1657,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-22T21:34:26Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 14835,
+            "stars": 14839,
             "topics": [
               "distributed",
               "hyperparameter-optimization",
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T01:46:01.478Z",
+    "last_updated": "2026-09-24T01:38:17.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
