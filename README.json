@@ -508,7 +508,7 @@
             "open_issues": 8,
             "owner": "bayesian-optimization",
             "repo": "BayesianOptimization",
-            "stars": 8714,
+            "stars": 8715,
             "topics": [
               "bayesian-optimization",
               "gaussian-processes",
@@ -556,7 +556,7 @@
             "open_issues": 7,
             "owner": "joeddav",
             "repo": "devol",
-            "stars": 952,
+            "stars": 953,
             "topics": [
               "automl",
               "computer-vision",
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T17:29:28Z",
-            "open_issues": 3566,
+            "last_commit": "2026-09-27T19:57:30Z",
+            "open_issues": 3569,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43932,
+            "stars": 43938,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1580,7 +1580,7 @@
             "open_issues": 28,
             "owner": "AxeldeRomblay",
             "repo": "MLBox",
-            "stars": 1535,
+            "stars": 1534,
             "topics": [
               "auto-ml",
               "automated-machine-learning",
@@ -1660,7 +1660,7 @@
             "open_issues": 17,
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 14851,
+            "stars": 14852,
             "topics": [
               "distributed",
               "hyperparameter-optimization",
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:46:44.701Z",
+    "last_updated": "2026-09-28T01:58:08.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
