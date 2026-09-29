@@ -117,7 +117,7 @@
             "open_issues": 21,
             "owner": "tobegit3hub",
             "repo": "advisor",
-            "stars": 1564,
+            "stars": 1563,
             "topics": [
               "algorithm",
               "automl",
@@ -206,7 +206,7 @@
             "open_issues": 161,
             "owner": "keras-team",
             "repo": "autokeras",
-            "stars": 9332,
+            "stars": 9333,
             "topics": [
               "autodl",
               "automated-machine-learning",
@@ -237,7 +237,7 @@
             "open_issues": 161,
             "owner": "keras-team",
             "repo": "autokeras",
-            "stars": 9332,
+            "stars": 9333,
             "topics": [
               "autodl",
               "automated-machine-learning",
@@ -466,7 +466,7 @@
             "open_issues": 187,
             "owner": "ClimbsRocks",
             "repo": "auto_ml",
-            "stars": 1651,
+            "stars": 1650,
             "topics": [
               "analytics",
               "artificial-intelligence",
@@ -803,7 +803,7 @@
             "id": 2337852,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T21:30:55Z",
+            "last_commit": "2026-09-28T22:18:00Z",
             "open_issues": 10,
             "owner": "hyperopt",
             "repo": "hyperopt",
@@ -826,7 +826,7 @@
             "id": 2337852,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T21:30:55Z",
+            "last_commit": "2026-09-28T22:18:00Z",
             "open_issues": 10,
             "owner": "hyperopt",
             "repo": "hyperopt",
@@ -933,7 +933,7 @@
             "id": 127941481,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T06:38:00Z",
+            "last_commit": "2026-09-28T21:07:56Z",
             "open_issues": 118,
             "owner": "kubeflow",
             "repo": "katib",
@@ -1092,7 +1092,7 @@
             "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14362,
+            "stars": 14363,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-27T19:57:30Z",
-            "open_issues": 3569,
+            "last_commit": "2026-09-29T01:39:59Z",
+            "open_issues": 3563,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43938,
+            "stars": 43940,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1657,10 +1657,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-25T09:43:22Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 14852,
+            "stars": 14859,
             "topics": [
               "distributed",
               "hyperparameter-optimization",
@@ -1693,7 +1693,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4159,
+            "stars": 4160,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1719,7 +1719,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4159,
+            "stars": 4160,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1745,7 +1745,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4159,
+            "stars": 4160,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:58:08.737Z",
+    "last_updated": "2026-09-29T02:43:28.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
@@ -1772,7 +1772,7 @@
       "open_issues": 2,
       "owner": "hibayesian",
       "repo": "awesome-automl-papers",
-      "stars": 4159,
+      "stars": 4160,
       "topics": [
         "automated-feature-engineering",
         "automl",
