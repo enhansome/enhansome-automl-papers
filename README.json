@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "2022 | BERT-Sort: A Zero-shot MLM Semantic Encoder on Ordinal Features for AutoML | Mehdi Bahrami, et al. | AutoML |",
-              "description": null,
+              "description": "marscod/BERT-Sort",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -36,7 +36,7 @@
             {
               "node_type": "item",
               "title": "2020 | Automated Machine Learning Techniques for Data Streams | Alexandru-Ionut Imbrea |",
-              "description": null,
+              "description": "AlexImb/automl-streams-research-paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -193,7 +193,7 @@
         {
           "node_type": "item",
           "title": "autokeras",
-          "description": null,
+          "description": "keras-team/autokeras",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -224,7 +224,7 @@
         {
           "node_type": "item",
           "title": "autokeras",
-          "description": null,
+          "description": "keras-team/autokeras",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -389,7 +389,7 @@
         {
           "node_type": "item",
           "title": "auto-sklearn",
-          "description": null,
+          "description": "automl/auto-sklearn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -421,7 +421,7 @@
         {
           "node_type": "item",
           "title": "auto-sklearn",
-          "description": null,
+          "description": "automl/auto-sklearn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -738,7 +738,7 @@
         {
           "node_type": "item",
           "title": "hyperband",
-          "description": null,
+          "description": "zygmuntz/hyperband",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -766,7 +766,7 @@
         {
           "node_type": "item",
           "title": "hyperband",
-          "description": null,
+          "description": "zygmuntz/hyperband",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -794,7 +794,7 @@
         {
           "node_type": "item",
           "title": "hyperopt",
-          "description": null,
+          "description": "hyperopt/hyperopt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -817,7 +817,7 @@
         {
           "node_type": "item",
           "title": "hyperopt",
-          "description": null,
+          "description": "hyperopt/hyperopt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -840,7 +840,7 @@
         {
           "node_type": "item",
           "title": "hyperopt-sklearn",
-          "description": null,
+          "description": "hyperopt/hyperopt-sklearn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -861,7 +861,7 @@
         {
           "node_type": "item",
           "title": "hyperopt-sklearn",
-          "description": null,
+          "description": "hyperopt/hyperopt-sklearn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1146,7 +1146,7 @@
         {
           "node_type": "item",
           "title": "optunity",
-          "description": null,
+          "description": "claesenm/optunity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1167,7 +1167,7 @@
         {
           "node_type": "item",
           "title": "optunity",
-          "description": null,
+          "description": "claesenm/optunity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1188,7 +1188,7 @@
         {
           "node_type": "item",
           "title": "rbfopt",
-          "description": null,
+          "description": "coin-or/rbfopt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1209,7 +1209,7 @@
         {
           "node_type": "item",
           "title": "rbfopt",
-          "description": null,
+          "description": "coin-or/rbfopt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1251,7 +1251,7 @@
         {
           "node_type": "item",
           "title": "scikit-optimize",
-          "description": null,
+          "description": "scikit-optimize/scikit-optimize",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1288,7 +1288,7 @@
         {
           "node_type": "item",
           "title": "scikit-optimize",
-          "description": null,
+          "description": "scikit-optimize/scikit-optimize",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1325,7 +1325,7 @@
         {
           "node_type": "item",
           "title": "SMAC3",
-          "description": null,
+          "description": "automl/SMAC3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1358,7 +1358,7 @@
         {
           "node_type": "item",
           "title": "SMAC3",
-          "description": null,
+          "description": "automl/SMAC3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1485,10 +1485,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-03T00:52:29Z",
-            "open_issues": 3542,
+            "open_issues": 3544,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43962,
+            "stars": 43964,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1673,94 +1673,10 @@
         }
       ],
       "title": "Projects"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "AutoFE",
-          "description": "Automated Feature Engineering for Predictive Modeling Udyan Khurana, etc al.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
-            "homepage": null,
-            "id": 111381431,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2024-06-11T16:51:05Z",
-            "open_issues": 2,
-            "owner": "hibayesian",
-            "repo": "awesome-automl-papers",
-            "stars": 4161,
-            "topics": [
-              "automated-feature-engineering",
-              "automl",
-              "hyperparameter-optimization",
-              "neural-architecture-search"
-            ]
-          },
-          "first_seen": "2026-08-28T07:04:12.401Z"
-        },
-        {
-          "node_type": "item",
-          "title": "HPO",
-          "description": "A Tutorial on Bayesian Optimization for Machine Learning Ryan P. Adams",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
-            "homepage": null,
-            "id": 111381431,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2024-06-11T16:51:05Z",
-            "open_issues": 2,
-            "owner": "hibayesian",
-            "repo": "awesome-automl-papers",
-            "stars": 4161,
-            "topics": [
-              "automated-feature-engineering",
-              "automl",
-              "hyperparameter-optimization",
-              "neural-architecture-search"
-            ]
-          },
-          "first_seen": "2026-08-28T07:04:12.401Z"
-        },
-        {
-          "node_type": "item",
-          "title": "HPO",
-          "description": "Bayesian Optimisation Gilles Louppe",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
-            "homepage": null,
-            "id": 111381431,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2024-06-11T16:51:05Z",
-            "open_issues": 2,
-            "owner": "hibayesian",
-            "repo": "awesome-automl-papers",
-            "stars": 4161,
-            "topics": [
-              "automated-feature-engineering",
-              "automl",
-              "hyperparameter-optimization",
-              "neural-architecture-search"
-            ]
-          },
-          "first_seen": "2026-08-28T07:04:12.401Z"
-        }
-      ],
-      "title": "Slides"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:18:40.594Z",
+    "last_updated": "2026-10-03T04:35:06.927Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
