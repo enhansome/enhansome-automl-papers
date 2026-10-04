@@ -508,7 +508,7 @@
             "open_issues": 12,
             "owner": "bayesian-optimization",
             "repo": "BayesianOptimization",
-            "stars": 8718,
+            "stars": 8717,
             "topics": [
               "bayesian-optimization",
               "gaussian-processes",
@@ -933,8 +933,8 @@
             "id": 127941481,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T17:11:28Z",
-            "open_issues": 118,
+            "last_commit": "2026-10-03T21:03:46Z",
+            "open_issues": 117,
             "owner": "kubeflow",
             "repo": "katib",
             "stars": 1705,
@@ -1092,7 +1092,7 @@
             "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14366,
+            "stars": 14368,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T00:52:29Z",
-            "open_issues": 3544,
+            "last_commit": "2026-10-03T07:06:44Z",
+            "open_issues": 3547,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43964,
+            "stars": 43967,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1657,10 +1657,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-30T07:26:24Z",
-            "open_issues": 19,
+            "open_issues": 21,
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 14873,
+            "stars": 14880,
             "topics": [
               "distributed",
               "hyperparameter-optimization",
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:35:06.927Z",
+    "last_updated": "2026-10-04T02:51:12.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
