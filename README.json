@@ -508,7 +508,7 @@
             "open_issues": 12,
             "owner": "bayesian-optimization",
             "repo": "BayesianOptimization",
-            "stars": 8718,
+            "stars": 8717,
             "topics": [
               "bayesian-optimization",
               "gaussian-processes",
@@ -803,7 +803,7 @@
             "id": 2337852,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T22:18:00Z",
+            "last_commit": "2026-10-05T23:48:53Z",
             "open_issues": 10,
             "owner": "hyperopt",
             "repo": "hyperopt",
@@ -826,7 +826,7 @@
             "id": 2337852,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T22:18:00Z",
+            "last_commit": "2026-10-05T23:48:53Z",
             "open_issues": 10,
             "owner": "hyperopt",
             "repo": "hyperopt",
@@ -937,7 +937,7 @@
             "open_issues": 117,
             "owner": "kubeflow",
             "repo": "katib",
-            "stars": 1705,
+            "stars": 1704,
             "topics": [
               "ai",
               "automl",
@@ -1201,7 +1201,7 @@
             "open_issues": 1,
             "owner": "coin-or",
             "repo": "rbfopt",
-            "stars": 196,
+            "stars": 195,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
@@ -1222,7 +1222,7 @@
             "open_issues": 1,
             "owner": "coin-or",
             "repo": "rbfopt",
-            "stars": 196,
+            "stars": 195,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T02:22:31Z",
-            "open_issues": 3558,
+            "last_commit": "2026-10-06T02:34:33Z",
+            "open_issues": 3569,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43970,
+            "stars": 43972,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1622,7 +1622,7 @@
             "open_issues": 1,
             "owner": "Western-OC2-Lab",
             "repo": "AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics",
-            "stars": 630,
+            "stars": 629,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -1656,8 +1656,8 @@
             "id": 122299416,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-30T07:26:24Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-06T03:06:22Z",
+            "open_issues": 22,
             "owner": "optuna",
             "repo": "optuna",
             "stars": 14887,
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T02:23:15.639Z",
+    "last_updated": "2026-10-06T03:19:14.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
