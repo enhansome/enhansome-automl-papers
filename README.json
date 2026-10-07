@@ -402,7 +402,7 @@
             "open_issues": 209,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8134,
+            "stars": 8135,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -434,7 +434,7 @@
             "open_issues": 209,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8134,
+            "stars": 8135,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -508,7 +508,7 @@
             "open_issues": 12,
             "owner": "bayesian-optimization",
             "repo": "BayesianOptimization",
-            "stars": 8718,
+            "stars": 8720,
             "topics": [
               "bayesian-optimization",
               "gaussian-processes",
@@ -679,7 +679,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T08:28:44Z",
-            "open_issues": 2857,
+            "open_issues": 2856,
             "owner": "h2oai",
             "repo": "h2o-3",
             "stars": 7509,
@@ -807,7 +807,7 @@
             "open_issues": 10,
             "owner": "hyperopt",
             "repo": "hyperopt",
-            "stars": 7595,
+            "stars": 7596,
             "topics": [
               "hacktoberfest"
             ]
@@ -830,7 +830,7 @@
             "open_issues": 10,
             "owner": "hyperopt",
             "repo": "hyperopt",
-            "stars": 7595,
+            "stars": 7596,
             "topics": [
               "hacktoberfest"
             ]
@@ -934,7 +934,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-03T21:03:46Z",
-            "open_issues": 117,
+            "open_issues": 118,
             "owner": "kubeflow",
             "repo": "katib",
             "stars": 1704,
@@ -1334,7 +1334,7 @@
             "id": 65900469,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T08:18:16Z",
+            "last_commit": "2026-10-06T12:14:36Z",
             "open_issues": 114,
             "owner": "automl",
             "repo": "SMAC3",
@@ -1367,7 +1367,7 @@
             "id": 65900469,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T08:18:16Z",
+            "last_commit": "2026-10-06T12:14:36Z",
             "open_issues": 114,
             "owner": "automl",
             "repo": "SMAC3",
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:04:39Z",
-            "open_issues": 3570,
+            "last_commit": "2026-10-07T02:25:27Z",
+            "open_issues": 3574,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43973,
+            "stars": 43977,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:24:47.065Z",
+    "last_updated": "2026-10-07T02:41:10.792Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
