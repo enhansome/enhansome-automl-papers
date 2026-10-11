@@ -508,7 +508,7 @@
             "open_issues": 13,
             "owner": "bayesian-optimization",
             "repo": "BayesianOptimization",
-            "stars": 8720,
+            "stars": 8719,
             "topics": [
               "bayesian-optimization",
               "gaussian-processes",
@@ -853,7 +853,7 @@
             "open_issues": 78,
             "owner": "hyperopt",
             "repo": "hyperopt-sklearn",
-            "stars": 1647,
+            "stars": 1648,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
@@ -874,7 +874,7 @@
             "open_issues": 78,
             "owner": "hyperopt",
             "repo": "hyperopt-sklearn",
-            "stars": 1647,
+            "stars": 1648,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T22:21:32Z",
-            "open_issues": 3563,
+            "last_commit": "2026-10-10T23:07:26Z",
+            "open_issues": 3555,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 44000,
+            "stars": 44004,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1657,10 +1657,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-10T02:01:01Z",
-            "open_issues": 16,
+            "open_issues": 18,
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 14906,
+            "stars": 14905,
             "topics": [
               "distributed",
               "hyperparameter-optimization",
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:44:15.775Z",
+    "last_updated": "2026-10-11T02:10:00.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
