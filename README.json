@@ -508,7 +508,7 @@
             "open_issues": 13,
             "owner": "bayesian-optimization",
             "repo": "BayesianOptimization",
-            "stars": 8728,
+            "stars": 8729,
             "topics": [
               "bayesian-optimization",
               "gaussian-processes",
@@ -678,7 +678,7 @@
             "id": 17371412,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T13:08:19Z",
+            "last_commit": "2026-11-02T17:13:11Z",
             "open_issues": 2852,
             "owner": "h2oai",
             "repo": "h2o-3",
@@ -803,11 +803,11 @@
             "id": 2337852,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T22:06:13Z",
+            "last_commit": "2026-11-02T22:57:45Z",
             "open_issues": 15,
             "owner": "hyperopt",
             "repo": "hyperopt",
-            "stars": 7599,
+            "stars": 7600,
             "topics": [
               "hacktoberfest"
             ]
@@ -826,11 +826,11 @@
             "id": 2337852,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T22:06:13Z",
+            "last_commit": "2026-11-02T22:57:45Z",
             "open_issues": 15,
             "owner": "hyperopt",
             "repo": "hyperopt",
-            "stars": 7599,
+            "stars": 7600,
             "topics": [
               "hacktoberfest"
             ]
@@ -937,7 +937,7 @@
             "open_issues": 121,
             "owner": "kubeflow",
             "repo": "katib",
-            "stars": 1707,
+            "stars": 1706,
             "topics": [
               "ai",
               "automl",
@@ -997,7 +997,7 @@
             "id": 156218203,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-29T15:11:54Z",
+            "last_commit": "2026-11-02T12:04:47Z",
             "open_issues": 79,
             "owner": "mljar",
             "repo": "mljar-supervised",
@@ -1092,7 +1092,7 @@
             "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14366,
+            "stars": 14367,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -1334,8 +1334,8 @@
             "id": 65900469,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T14:18:20Z",
-            "open_issues": 110,
+            "last_commit": "2026-11-02T11:48:53Z",
+            "open_issues": 109,
             "owner": "automl",
             "repo": "SMAC3",
             "stars": 1267,
@@ -1367,8 +1367,8 @@
             "id": 65900469,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T14:18:20Z",
-            "open_issues": 110,
+            "last_commit": "2026-11-02T11:48:53Z",
+            "open_issues": 109,
             "owner": "automl",
             "repo": "SMAC3",
             "stars": 1267,
@@ -1404,7 +1404,7 @@
             "open_issues": 312,
             "owner": "EpistasisLab",
             "repo": "tpot",
-            "stars": 10056,
+            "stars": 10058,
             "topics": [
               "adsp",
               "ag066833",
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T00:09:54Z",
-            "open_issues": 3708,
+            "last_commit": "2026-11-03T03:27:05Z",
+            "open_issues": 3722,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 44177,
+            "stars": 44186,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1657,10 +1657,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-30T08:28:36Z",
-            "open_issues": 28,
+            "open_issues": 27,
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 15001,
+            "stars": 15007,
             "topics": [
               "distributed",
               "hyperparameter-optimization",
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T02:43:54.470Z",
+    "last_updated": "2026-11-03T04:00:22.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
