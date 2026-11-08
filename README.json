@@ -934,7 +934,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T19:17:25Z",
-            "open_issues": 122,
+            "open_issues": 123,
             "owner": "kubeflow",
             "repo": "katib",
             "stars": 1707,
@@ -1404,7 +1404,7 @@
             "open_issues": 312,
             "owner": "EpistasisLab",
             "repo": "tpot",
-            "stars": 10059,
+            "stars": 10060,
             "topics": [
               "adsp",
               "ag066833",
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T03:06:13Z",
-            "open_issues": 3720,
+            "last_commit": "2026-11-08T01:21:23Z",
+            "open_issues": 3736,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 44225,
+            "stars": 44232,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1657,7 +1657,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-04T07:56:15Z",
-            "open_issues": 28,
+            "open_issues": 30,
             "owner": "optuna",
             "repo": "optuna",
             "stars": 15013,
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T03:11:26.905Z",
+    "last_updated": "2026-11-08T02:41:19.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
