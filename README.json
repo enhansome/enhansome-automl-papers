@@ -398,8 +398,8 @@
             "id": 38441254,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-15T14:03:23Z",
-            "open_issues": 208,
+            "last_commit": "2026-11-13T14:57:20Z",
+            "open_issues": 204,
             "owner": "automl",
             "repo": "auto-sklearn",
             "stars": 8146,
@@ -430,8 +430,8 @@
             "id": 38441254,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-15T14:03:23Z",
-            "open_issues": 208,
+            "last_commit": "2026-11-13T14:57:20Z",
+            "open_issues": 204,
             "owner": "automl",
             "repo": "auto-sklearn",
             "stars": 8146,
@@ -508,7 +508,7 @@
             "open_issues": 7,
             "owner": "bayesian-optimization",
             "repo": "BayesianOptimization",
-            "stars": 8736,
+            "stars": 8739,
             "topics": [
               "bayesian-optimization",
               "gaussian-processes",
@@ -807,7 +807,7 @@
             "open_issues": 25,
             "owner": "hyperopt",
             "repo": "hyperopt",
-            "stars": 7599,
+            "stars": 7598,
             "topics": [
               "hacktoberfest"
             ]
@@ -830,7 +830,7 @@
             "open_issues": 25,
             "owner": "hyperopt",
             "repo": "hyperopt",
-            "stars": 7599,
+            "stars": 7598,
             "topics": [
               "hacktoberfest"
             ]
@@ -933,8 +933,8 @@
             "id": 127941481,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T16:18:29Z",
-            "open_issues": 125,
+            "last_commit": "2026-11-14T00:25:06Z",
+            "open_issues": 123,
             "owner": "kubeflow",
             "repo": "katib",
             "stars": 1708,
@@ -1092,7 +1092,7 @@
             "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14365,
+            "stars": 14366,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T03:01:00Z",
-            "open_issues": 3765,
+            "last_commit": "2026-11-14T03:02:24Z",
+            "open_issues": 3779,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 44277,
+            "stars": 44285,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1656,11 +1656,11 @@
             "id": 122299416,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-12T07:08:03Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-13T09:03:39Z",
+            "open_issues": 19,
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 15041,
+            "stars": 15043,
             "topics": [
               "distributed",
               "hyperparameter-optimization",
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T03:34:09.037Z",
+    "last_updated": "2026-11-14T03:31:15.120Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
