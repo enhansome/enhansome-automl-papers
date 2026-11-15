@@ -117,7 +117,7 @@
             "open_issues": 21,
             "owner": "tobegit3hub",
             "repo": "advisor",
-            "stars": 1566,
+            "stars": 1567,
             "topics": [
               "algorithm",
               "automl",
@@ -402,7 +402,7 @@
             "open_issues": 204,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8146,
+            "stars": 8147,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -434,7 +434,7 @@
             "open_issues": 204,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8146,
+            "stars": 8147,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -508,7 +508,7 @@
             "open_issues": 7,
             "owner": "bayesian-optimization",
             "repo": "BayesianOptimization",
-            "stars": 8739,
+            "stars": 8738,
             "topics": [
               "bayesian-optimization",
               "gaussian-processes",
@@ -682,7 +682,7 @@
             "open_issues": 2851,
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7525,
+            "stars": 7526,
             "topics": [
               "automl",
               "big-data",
@@ -934,7 +934,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-14T00:25:06Z",
-            "open_issues": 123,
+            "open_issues": 124,
             "owner": "kubeflow",
             "repo": "katib",
             "stars": 1708,
@@ -1446,7 +1446,7 @@
             "open_issues": 46,
             "owner": "salesforce",
             "repo": "TransmogrifAI",
-            "stars": 2281,
+            "stars": 2280,
             "topics": [
               "ai",
               "automated-machine-learning",
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T03:02:24Z",
-            "open_issues": 3779,
+            "last_commit": "2026-11-15T02:15:23Z",
+            "open_issues": 3787,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 44285,
+            "stars": 44289,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T03:31:15.120Z",
+    "last_updated": "2026-11-15T03:03:26.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
