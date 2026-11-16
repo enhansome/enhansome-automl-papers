@@ -402,7 +402,7 @@
             "open_issues": 204,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8147,
+            "stars": 8148,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -434,7 +434,7 @@
             "open_issues": 204,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8147,
+            "stars": 8148,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -682,7 +682,7 @@
             "open_issues": 2851,
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7526,
+            "stars": 7527,
             "topics": [
               "automl",
               "big-data",
@@ -1092,7 +1092,7 @@
             "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14366,
+            "stars": 14367,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -1404,7 +1404,7 @@
             "open_issues": 313,
             "owner": "EpistasisLab",
             "repo": "tpot",
-            "stars": 10060,
+            "stars": 10061,
             "topics": [
               "adsp",
               "ag066833",
@@ -1446,7 +1446,7 @@
             "open_issues": 46,
             "owner": "salesforce",
             "repo": "TransmogrifAI",
-            "stars": 2280,
+            "stars": 2281,
             "topics": [
               "ai",
               "automated-machine-learning",
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T02:15:23Z",
-            "open_issues": 3787,
+            "last_commit": "2026-11-16T00:18:42Z",
+            "open_issues": 3803,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 44289,
+            "stars": 44293,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1657,10 +1657,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-13T09:03:39Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 15043,
+            "stars": 15047,
             "topics": [
               "distributed",
               "hyperparameter-optimization",
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T03:03:26.105Z",
+    "last_updated": "2026-11-16T03:05:21.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
