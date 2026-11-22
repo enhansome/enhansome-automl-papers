@@ -206,7 +206,7 @@
             "open_issues": 161,
             "owner": "keras-team",
             "repo": "autokeras",
-            "stars": 9341,
+            "stars": 9340,
             "topics": [
               "autodl",
               "automated-machine-learning",
@@ -237,7 +237,7 @@
             "open_issues": 161,
             "owner": "keras-team",
             "repo": "autokeras",
-            "stars": 9341,
+            "stars": 9340,
             "topics": [
               "autodl",
               "automated-machine-learning",
@@ -402,7 +402,7 @@
             "open_issues": 205,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8147,
+            "stars": 8146,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -434,7 +434,7 @@
             "open_issues": 205,
             "owner": "automl",
             "repo": "auto-sklearn",
-            "stars": 8147,
+            "stars": 8146,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -679,10 +679,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-11-11T00:21:43Z",
-            "open_issues": 2852,
+            "open_issues": 2853,
             "owner": "h2oai",
             "repo": "h2o-3",
-            "stars": 7526,
+            "stars": 7528,
             "topics": [
               "automl",
               "big-data",
@@ -933,7 +933,7 @@
             "id": 127941481,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T18:22:01Z",
+            "last_commit": "2026-11-22T00:28:16Z",
             "open_issues": 127,
             "owner": "kubeflow",
             "repo": "katib",
@@ -1092,7 +1092,7 @@
             "open_issues": 415,
             "owner": "microsoft",
             "repo": "nni",
-            "stars": 14371,
+            "stars": 14370,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -1201,7 +1201,7 @@
             "open_issues": 1,
             "owner": "coin-or",
             "repo": "rbfopt",
-            "stars": 196,
+            "stars": 197,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
@@ -1222,7 +1222,7 @@
             "open_issues": 1,
             "owner": "coin-or",
             "repo": "rbfopt",
-            "stars": 196,
+            "stars": 197,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.401Z"
@@ -1401,10 +1401,10 @@
             "language": "Jupyter Notebook",
             "license": "LGPL-3.0",
             "last_commit": "2025-09-11T21:32:19Z",
-            "open_issues": 310,
+            "open_issues": 311,
             "owner": "EpistasisLab",
             "repo": "tpot",
-            "stars": 10061,
+            "stars": 10060,
             "topics": [
               "adsp",
               "ag066833",
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T02:17:35Z",
-            "open_issues": 3825,
+            "last_commit": "2026-11-22T02:59:10Z",
+            "open_issues": 3844,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 44351,
+            "stars": 44354,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1657,10 +1657,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-18T01:34:16Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 15069,
+            "stars": 15071,
             "topics": [
               "distributed",
               "hyperparameter-optimization",
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T04:15:19.165Z",
+    "last_updated": "2026-11-22T03:28:03.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
