@@ -268,7 +268,7 @@
             "open_issues": 75,
             "owner": "automl",
             "repo": "Auto-PyTorch",
-            "stars": 2540,
+            "stars": 2539,
             "topics": [
               "automl",
               "deep-learning",
@@ -466,7 +466,7 @@
             "open_issues": 187,
             "owner": "ClimbsRocks",
             "repo": "auto_ml",
-            "stars": 1650,
+            "stars": 1651,
             "topics": [
               "analytics",
               "artificial-intelligence",
@@ -679,7 +679,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-11-11T00:21:43Z",
-            "open_issues": 2855,
+            "open_issues": 2856,
             "owner": "h2oai",
             "repo": "h2o-3",
             "stars": 7532,
@@ -804,10 +804,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-23T22:26:15Z",
-            "open_issues": 30,
+            "open_issues": 32,
             "owner": "hyperopt",
             "repo": "hyperopt",
-            "stars": 7600,
+            "stars": 7601,
             "topics": [
               "hacktoberfest"
             ]
@@ -827,10 +827,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-23T22:26:15Z",
-            "open_issues": 30,
+            "open_issues": 32,
             "owner": "hyperopt",
             "repo": "hyperopt",
-            "stars": 7600,
+            "stars": 7601,
             "topics": [
               "hacktoberfest"
             ]
@@ -1338,7 +1338,7 @@
             "open_issues": 111,
             "owner": "automl",
             "repo": "SMAC3",
-            "stars": 1273,
+            "stars": 1274,
             "topics": [
               "algorithm-configuration",
               "automated-machine-learning",
@@ -1371,7 +1371,7 @@
             "open_issues": 111,
             "owner": "automl",
             "repo": "SMAC3",
-            "stars": 1273,
+            "stars": 1274,
             "topics": [
               "algorithm-configuration",
               "automated-machine-learning",
@@ -1484,11 +1484,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T03:34:37Z",
-            "open_issues": 3892,
+            "last_commit": "2026-11-27T05:19:45Z",
+            "open_issues": 3900,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 44386,
+            "stars": 44392,
             "topics": [
               "data-science",
               "deep-learning",
@@ -1657,10 +1657,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-25T01:41:41Z",
-            "open_issues": 18,
+            "open_issues": 20,
             "owner": "optuna",
             "repo": "optuna",
-            "stars": 15086,
+            "stars": 15089,
             "topics": [
               "distributed",
               "hyperparameter-optimization",
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T05:26:35.383Z",
+    "last_updated": "2026-11-27T05:19:46.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
